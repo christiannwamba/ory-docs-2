@@ -1,0 +1,1208 @@
+URL,Title,Summary,Last Updated
+"/docs/","Welcome to Ory! | Ory","Welcome to Ory! > Why Ory is different​ > Ory Network​ > Components​ > Identities and sessions​ > Permissions and relationships​ > OAuth2 and OIDC​ > Ory Console​ > Ory Account Experience​ > Ory Actions​ > Ory Open Source​ > Is open source taking a back seat?​
+Ory is a software infrastructure provid...","2025-01-29T10:58:37.388Z"
+"/docs/welcome","Ory","Welcome to Ory! > Why Ory is different​ > Ory Network​ > Components​ > Identities and sessions​ > Permissions and relationships​ > OAuth2 and OIDC​ > Ory Console​ > Ory Account Experience​ > Ory Actions​ > Ory Open Source​ > Is open source taking a back seat?​
+Ory is a software infrastructure provid...","2025-01-29T10:58:37.646Z"
+"/docs/getting-started/overview","Quickstarts & Tutorials | Ory","Quickstarts & Tutorials > Basic examples > Protect a page with login: Next.js/React > Protect a page with login: React > Protect a Page with Login: React Native > Protect a page with login: Express.js > Protect a page with login: Go > Protect a page with login: PHP > Protect a page with login: Vue.j...","2025-01-29T10:58:37.835Z"
+"/docs/guides/authentication","Authentication & Login | Ory","Authentication & Login > 📄️ Developing with Ory > 📄️ Password > 📄️ Passkeys & WebAuthN > 📄️ Passwordless email & SMS > 📄️ B2B SSO & SAML > 🗃️ OpenID Connect SSO > 🗃️ Multi-factor authentication > 🗃️ Customized auth flows
+To create your first project on the Ory Network, install the Ory CLI:...","2025-01-29T10:58:38.030Z"
+"/docs/reference/api","Ory","
+...","2025-01-29T10:58:38.340Z"
+"/docs/ecosystem/projects","Introduction | Ory","Introduction > Ory Kratos​ > Ory Hydra​ > Ory Oathkeeper​ > Ory Keto​ > All of Ory Open Source​
+We provide an open source ecosystem of services with clear boundaries that solve authentication and authorization:...","2025-01-29T10:58:38.542Z"
+"/docs/guides/permissions/overview","Get started with Permissions in the Ory Network | Ory","Get started with Ory Permissions > Basic concepts​ > Relations and relationships​ > Checking permissions​ > Example​ > Ory Network setup​ > Creating relationships​ > Checking for permissions​ > Next steps​
+Ory Permissions (based on Ory Keto) implements...","2025-01-29T10:58:38.747Z"
+"/docs/guides/oauth2-oidc","OAuth2 and OpenID Connect | Ory","OAuth2 and OpenID Connect > 📄️ Try it > 📄️ Node.js / Express.js
+Ory OAuth2 & OpenID Connect (based on...","2025-01-29T10:58:38.932Z"
+"/docs/quickstart/sdks","SDK quickstarts | Ory","SDK quickstarts > 🗃️ Identity Management > 🗃️ OAuth2 & OpenID Connect > 🗃️ Permissions
+1 item...","2025-01-29T10:58:39.123Z"
+"/docs/category/guides/","Guides | Ory","📄️ User authentication > 📄️ Ory Actions > 📄️ Identity management > 📄️ Identity schema > 📄️ Emails and SMS > 📄️ Session management > 📄️ Build your own UI > 📄️ Check token validity > 📄️ Manage OAuth2 clients > 📄️ Operations > 📄️ Migrate to Ory
+Ory Actions supports webhooks, which are HTTP c...","2025-01-29T10:58:39.314Z"
+"/docs/guides/integrate-with-ory-cloud-through-webhooks","Trigger custom logic and integrate with external systems with webhooks | Ory","Trigger custom logic and integrate with external systems with webhooks > Creating Actions on the Ory Network​ > Configuration overview​ > Define HTTP request​ > Customizing request body with Jsonnet​ > Request authentication​ > Canceling webhooks​ > Webhook response handling​ > Non-blocking / async ...","2025-01-29T10:58:39.566Z"
+"/docs/kratos/manage-identities/overview","What is an identity in Ory? | Ory","Identity model > Identity example​
+Identities are sets of data that describe humans that sign up on a website or an application, for example online store customers,...","2025-01-29T10:58:39.766Z"
+"/docs/kratos/manage-identities/identity-schema","Identity schema - the model that defines the data that makes up user accounts | Ory","Identity schema > Presets​ > Email and password​ > Username and password​ > Example with name and newsletter opt-in​
+The identity schema implements the JSON Schema Standard and allows you to adjust Ory specifically to...","2025-01-29T10:58:39.968Z"
+"/docs/guides/email-sms","Email and SMS | Ory","Email and SMS > 📄️ Email delivery configuration > 📄️ SMS delivery configuration
+The Ory Network comes with SMTP email sending configured out of the box. Ory emails are sent from this address:...","2025-01-29T10:58:40.167Z"
+"/docs/kratos/session-management/overview","Overview of sessions, Ory Session Cookies, and Ory Session Tokens | Ory","Overview > Ory session​ > Using Ory Session Cookie​ > Using Ory Session Token​ > JSON Web Token (JWT) support​ > Use Ory Oathkeeper to convert sessions to JWTs​
+When a user authenticates, for example by signing in with their username and password, they receive a session. The session is...","2025-01-29T10:58:40.421Z"
+"/docs/getting-started/custom-ui","Custom UI | Ory","Custom UI > Custom UI examples > Customize self-service UI: Node.js > Customize self-service UI: Next.js/React > Customize self-service UI: React Native
+Are you looking for an example on how to build a custom user interface for Ory Identities or the Ory Kratos Identity Server? Fork...","2025-01-29T10:58:40.582Z"
+"/docs/hydra/guides/oauth2-token-introspection","OAuth 2.0 token introspection | Ory","OAuth 2.0 token introspection
+Token introspection is a mechanism for resource servers to obtain information about access tokens. With this specification,...","2025-01-29T10:58:40.767Z"
+"/docs/hydra/guides/oauth2-clients","Manage OAuth 2.0 and OpenID Connect clients | Ory","Manage OAuth 2.0 and OpenID Connect clients > Create OAuth2 client​ > Update OAuth2 client​ > Patch OAuth2 client​ > Delete OAuth2 client​ > OpenID Dynamic Client Registration​ > Register OAuth2 and OpenID Connect clients​ > Get OAuth2 and OpenID Connect clients​ > Update OAuth2 and OpenID Connect c...","2025-01-29T10:58:41.055Z"
+"/docs/guides/operations","Operations | Ory","Operations > 📄️ Project management via API > 📄️ Change project owner > 📄️ Gitops > 📄️ Event streams
+You can configure Ory Network projects using the Ory Console, as well as the...","2025-01-29T10:58:41.267Z"
+"/docs/migrate-to-ory/","Migrate to Ory tutorial | Ory","Migrate to Ory tutorial > Pre-migration considerations​ > Migration scenario​ > Migration strategy​ > Create Ory Network projects​ > Define identity schema​ > Integrate frontend​ > Integrate backend​ > Get user data and credentials​ > Import identities​ > Phased migration for active sessions​ > Go l...","2025-01-29T10:58:41.472Z"
+"/docs/category/concepts/","Concepts | Ory","📄️ APIs > 📄️ Ory Identities > 📄️ Ory OAuth2 > 📄️ Ory Permissions > 📄️ Ory Actions
+REST API...","2025-01-29T10:58:41.651Z"
+"/docs/api/","gRPC + REST API Overview | Ory","gRPC + REST API Overview > REST API​ > gRPC API​ > CORS​
+There are two main API types available in Ory:...","2025-01-29T10:58:41.845Z"
+"/docs/identities/","Introduction to Ory Identities | Ory","Introduction to Ory Identities > Features​ > Cookie-based security​ > Native and browser APIs​ > Self-service flows​ > Authentication methods​ > Identity schema​ > Identity management​ > Session management​ > User interface​ > Send emails & SMS​ > Benefits​ > Usecases​ > Next steps​
+Ory Identities i...","2025-01-29T10:58:42.041Z"
+"/docs/oauth2-oidc/","Introduction to Ory OAuth2 and OpenID Connect | Ory","Introduction > Features​ > Certified OpenID Connect implementation​ > Flexible user management​ > Low latency​ > Global deployment​ > Security-first architecture​ > Cryptographic key storage​ > Benefits​ > Use cases​ > Next steps​
+OAuth2 is the industry-standard protocol that enables secure machine-...","2025-01-29T10:58:42.235Z"
+"/docs/keto/","Introduction to Ory Permissions | Ory","Introduction > Ory Permission Language​ > Next steps​
+Ory Permissions is a modern permission system you can use to create a complete authorization system for your application or...","2025-01-29T10:58:42.429Z"
+"/docs/kratos/hooks/configure-hooks","Ory Actions | Ory","Overview > Actions in Ory Identities​ > Actions triggered after events​ > Actions triggered before events​ > Action triggers​ > Available actions​ > Trigger precedence​ > Actions in Ory OAuth2 & OpenID Connect​
+Ory Actions are an extensibility mechanism provided by the Ory Network that allows you to...","2025-01-29T10:58:42.637Z"
+"/docs/category/reference/","Reference | Ory","📄️ REST API > 📄️ SDKs > 📄️ Ory CLI > 📄️ Ory Permission Language > 📄️ Troubleshooting > 📄️ Operations reference
+The Ory SDK allows for integration with Ory services, including Ory Identities, Ory Permissions, and Ory OAuth2....","2025-01-29T10:58:42.819Z"
+"/docs/sdk","Software Development Kits (SDKs) for Ory | Ory","Software Development Kits (SDKs) for Ory > Download the SDK​ > Further information​ > SDK Backwards compatibility​
+The Ory SDK allows for integration with Ory services, including Ory Identities, Ory Permissions, and Ory OAuth2....","2025-01-29T10:58:43.014Z"
+"/docs/cli/ory-auth","ory auth | Ory","ory auth > ory auth​ > Options​ > SEE ALSO​
+Create a new Ory Network account or sign in to an existing account....","2025-01-29T10:58:43.209Z"
+"/docs/keto/reference/ory-permission-language","Ory Permission Language specification | Ory","Ory Permission Language specification > Notation​ > Configuration text representation​ > Lexical elements​ > Comments​ > Identifiers​ > String literals​ > Keywords​ > Builtin Types​ > Operators​ > Statements​ > Type declaration​ > Relation declaration​ > Permission definition​ > Implementation notes...","2025-01-29T10:58:43.432Z"
+"/docs/troubleshooting/","Troubleshooting Index | Ory","📄️ Social sign-in `redirect_uri_mismatch` error (OTA-092022-01) > 📄️ Invalid courier URL > 📄️ CSRF troubleshooting > 📄️ Actions troubleshooting > 📄️ Wrong domain in magic links > 📄️ 72 character limit for BCrypt hashed secrets > 📄️ Social sign-in troubleshooting > 📄️ Troubleshooting iframes ...","2025-01-29T10:58:43.627Z"
+"/docs/category/operations-reference","Operations reference | Ory","📄️ API Keys > 📄️ CORS > 📄️ Custom Domains > 📄️ Pagination > 📄️ Workspaces & Environments > 📄️ Rate limits > 📄️ Ory Network IP Addresses > 📄️ Eventual consistency > 📄️ Custom Domains > 📄️ Usage-based billing
+Ory Network Project APIs are separated into:...","2025-01-29T10:58:43.806Z"
+"/docs/security-compliance/compliance-and-certifications","Compliance and certifications | Ory","Compliance and certifications > ISO 27001​ > SOC 2 Type 2​ > GDPR​ > OpenID Connect​
+Ory is dedicated to maintaining the highest standards of data security to protect the personal data stored on behalf of our...","2025-01-29T10:58:44.003Z"
+"/docs/kratos/concepts/security","Threat models and security profiles | Ory","Threat models and security profiles > Digital identity guidelines​ > Defenses against bots and automated attacks​ > Defenses against brute-force attacks​ > Defenses against cross-site request forgery​ > Password policy​ > OAuth 2.0 security​ > CAPTCHAs​
+Threat modeling is essential for securing a sy...","2025-01-29T10:58:44.201Z"
+"/docs/ecosystem/security","Security policy | Ory","Security policy > Apache 2.0 License users​ > Ory Enterprise License customers​ > Ory Network users​ > Reporting a vulnerability​ > Ory bug bounty program​ > Research guidelines​ > What can you report​ > How to report​ > Review​ > Rewards​ > Publication​ > Safe harbor​
+This security policy outlines ...","2025-01-29T10:58:44.412Z"
+"/docs/security-compliance/personal-data-location","Personal data location and homing | Ory","Personal data location and homing > Selecting a storage location for personal data​ > Global and US Continental storage locations​ > Regions and availability zones​
+Ory Network is globally distributed for maximum resilience and minimum latency. Check out the...","2025-01-29T10:58:44.611Z"
+"/docs/security-compliance/gdpr","GDPR compliance | Ory","GDPR compliance > How Ory Network helps you to be GDPR compliant​ > GDPR checklist​ > EU based servers​ > Integrity and confidentiality​ > Protection against data breaches​
+Adopting Ory Network as your identity management solution represents a big step towards becoming GDPR compliant. Ory is dedicat...","2025-01-29T10:58:44.817Z"
+"/docs/security-compliance/token-formats","Identifiable token formats | Ory","Identifiable token formats > Ory OAuth2 token prefixes​ > Ory session cookies​ > Other Ory cookies​ > Ory session tokens​ > Ory Identities logout tokens​ > Ory Network API keys​
+Ory is an open-source service that allows developers to secure their applications using different protocols such as OAuth ...","2025-01-29T10:58:45.014Z"
+"/docs/open-source","Ory is open source | Ory","Ory is open source > Projects​ > Fully-featured servers​ > Libraries​ > Open source resources​
+Ory has an open-source architecture, attitude, and heart. We believe in collaboration, participation, and the open exchange of...","2025-01-29T10:58:45.208Z"
+"/docs/getting-started/integrate-auth/go","Integrate authentication into Go | Ory","Integrate authentication into Go > Create Go app​ > Install Ory SDK​ > Install Ory CLI​ > Why do I need the Ory CLI​ > Create HTTP server​ > Validate and login​ > The protected page​ > Test your application​ > Go to production​
+This guide shows how to create a simple Go application and secure it wit...","2025-01-29T10:58:45.456Z"
+"/docs/getting-started/integrate-auth/php","Integrate authentication into PHP | Ory","Integrate authentication into PHP > Create PHP app​ > Install dependencies​ > Why do I need the Ory CLI​ > Create an Entry Page​ > Validate and login​ > Run your app​ > Go to production​
+This guide shows how to create a simple PHP application and secure it with authentication powered by Ory. The...","2025-01-29T10:58:45.697Z"
+"/docs/getting-started/integrate-auth/expressjs","Integrate authentication into Node.js / Express.js | Ory","Integrate authentication into Node.js / Express.js > Create Express.js app​ > Install Ory SDK and CLI​ > Why do I need the Ory CLI​ > Add NPM run script​ > Require login to access the home page​ > Run your Express.js app​ > Go to production​
+This guide shows how to create a simple Express.js applica...","2025-01-29T10:58:45.889Z"
+"/docs/getting-started/integrate-auth/react","Integrate authentication into React | Ory","Integrate authentication into React > Create React app​ > Install Ory SDK and CLI​ > Why do I need the Ory CLI​ > Require login to access the app page​ > Run Ory APIs on localhost​ > Run your React app​ > Go to production​
+This guide shows how to create a simple React application and secure it with ...","2025-01-29T10:58:46.167Z"
+"/docs/getting-started/integrate-auth/react-native","Integrate Authentication into React Native | Ory","Integrate Authentication into React Native > Clone the sample app repository​ > Prepare environment​ > Run the application locally​ > Connect to your project​ > Understanding the Implementation​ > React navigation with authentication session​ > React Native authentication screens​
+This guide shows h...","2025-01-29T10:58:46.385Z"
+"/docs/getting-started/integrate-auth/vue","Integrate authentication into Vue.js + API | Ory","Integrate authentication into Vue.js + API > Create Vue.js app​ > Install Ory SDK and CLI​ > Why do I need the Ory CLI​ > Check for session in component​ > Run Ory APIs on localhost​ > Run your Vue.js app​ > Make authenticated calls to your API​ > See it in action​ > Go to production​
+This guide sho...","2025-01-29T10:58:46.676Z"
+"/docs/getting-started/integrate-auth/nextjs","Integrate authentication into Next.js | Ory","Integrate authentication into Next.js > Create Next.js app​ > Install Ory​ > Require login to access the home page​ > Run your Next.js app​ > Go to production​
+This guide shows how to create a simple Next.js application and secure it with authentication powered by Ory. The...","2025-01-29T10:58:46.925Z"
+"/docs/getting-started/integrate-auth/flutter-web-redirect","Integrate authentication into Flutter Web | Ory","Integrate authentication into Flutter Web > Create Flutter Web app​ > Install Ory CLI​ > Why do I need the Ory CLI​ > Create the authentication service​ > Add environment variables​ > Update lib/main.dart​ > Test you application​ > Go to production​ > Release build​
+This guide shows how to create a ...","2025-01-29T10:58:47.155Z"
+"/docs/getting-started/integrate-auth/dotnet","Integrate authentication into ASP.NET | Ory","Integrate authentication into ASP.NET > Install Ory CLI​ > Why do I need the Ory CLI​ > Create ASP.NET app​ > Install Ory SDK​ > Configure the SDK​ > Validate and login​ > The protected page​ > Configure application​ > Test your application​ > Go to production​
+This guide shows how to create a simpl...","2025-01-29T10:58:47.408Z"
+"/docs/keto/examples/olymp-file-sharing","Basic: Olymp library | Ory","Basic: Olymp library > A basic, down-to-earth full feature example​
+Consider a file sharing application called "Olymp Library". Each file is stored in a key-value store, where the key is a UUIDv4...","2025-01-29T10:58:47.612Z"
+"/docs/keto/guides/rbac","Role Based Access Control (RBAC) | Ory","Role Based Access Control (RBAC) > RBAC with Ory Keto​ > Creating relationships​ > Display all objects a user has access to​
+This guide will explain how to implement RBAC using Ory Permissions....","2025-01-29T10:58:47.833Z"
+"/docs/getting-started/ory-network-oauth2","Perform OAuth2 Authorization Code Grant and Client Credentials Grant | Ory","Try common OAuth2 Grants > Prerequisites​ > Client Credentials Grant​ > Authorization Code Grant​
+Ory OAuth2 & OpenID Connect (based on...","2025-01-29T10:58:48.042Z"
+"/docs/getting-started/oauth2-openid/add-oauth2-openid-connect-nodejs-expressjs","Add OAuth2 and OpenID Connect to your NodeJS / ExpressJS application | Ory","Add OAuth2 and OpenID Connect to your ExpressJS app > Prerequisites​ > Add OAuth2 to ExpressJS​
+Adding OAuth2 to any application using the Ory Network is straight forward. This guide demonstrates how to write an app receiving...","2025-01-29T10:58:48.289Z"
+"/docs/getting-started/local-development","Develop applications on your local machine | Ory","Develop applications on your local machine > Ory APIs​ > API Keys​ > Environments​ > Development projects​ > Staging projects​ > Local development​ > Limitations​
+To create your first project on the Ory Network, install the Ory CLI:...","2025-01-29T10:58:48.724Z"
+"/docs/kratos/concepts/credentials/username-email-password","Login and registration using passwords | Ory","Login and registration using passwords > Disable passwords​ > Custom identity schema​
+The combination of identifier (username, email, phone number) and password is the oldest and most common way to authenticate users...","2025-01-29T10:58:48.903Z"
+"/docs/kratos/passwordless/passkeys","Passwordless sign-in and sign-up with passkeys | Ory","Passkeys & WebAuthN > Passkeys​ > Choose passkey strategy​ > Passkeys with the dedicated passkey strategy​ > Configuration​ > Identity schema​ > Passkeys with the WebAuthN strategy​ > Configuration​ > Example​ > WebAuthn​ > Configuration​ > Constraints​
+The Web Authentication Browser API (WebAuthn) ...","2025-01-29T10:58:49.475Z"
+"/docs/kratos/passwordless/one-time-code","Passwordless authentication with email and SMS one-time code | Ory","Email and SMS one-time-code authentication > Enable email one-time-code (OTP)​ > Enable SMS one-time-code (OTP)​ > Template customization​ > Custom identity schema​
+Ory Network allows users to authenticate through a one-time code sent via email and SMS. This is useful for use-cases where users...","2025-01-29T10:58:49.689Z"
+"/docs/kratos/organizations/","B2B SSO & SAML | Ory","B2B Single Sign-On & SAML > Manage organizations​ > Create SSO connections for an organization​ > See it live​ > SAML​ > SAML via Ory Network​ > SAML via BoxyHQ​
+Organizations are only available in Ory Network and are not supported in self-hosted Ory Kratos. If you have any questions, or if...","2025-01-29T10:58:49.919Z"
+"/docs/hydra/guides/claims-at-refresh","Customize claims with OAuth2 webhooks | Ory","Customizing claims with OAuth2 webhooks > Configuration​ > Webhook payload​ > Responding to the webhook​ > Updated tokens​ > Refresh token​ > Legacy webhook implementation (deprecated)​ > Legacy webhook payload​
+You can modify aspects of the OpenID Connect and access tokens returned from Hydra's OAu...","2025-01-29T10:58:50.148Z"
+"/docs/kratos/manage-identities/create-users-identities","Learn how to create accounts for users | Ory","Create identities
+The goal of this flow is to create an identity and provide the end user with a way of signing in and setting their password (or...","2025-01-29T10:58:50.322Z"
+"/docs/kratos/manage-identities/import-user-accounts-identities","Learn how to import user accounts from other systems to Ory | Ory","Import identities > Importing verified addresses​ > Importing recovery addresses​ > Importing credentials​ > Clear text password​ > Hashed passwords​ > Password migration using a web hook​ > Social sign-in connections​ > Bulk import identities from other providers​ > Errors during bulk import​
+Ory a...","2025-01-29T10:58:50.614Z"
+"/docs/identities/model/activate-deactivate-user-login-state","Activate and de-activate identities | Ory","Identity state > Change identity state using the SDK​
+The identity state determines whether an identity is active or not with the following states:...","2025-01-29T10:58:50.874Z"
+"/docs/kratos/manage-identities/invite-users","Learn how to invite users to Ory-powered applications | Ory","Invite users > Procedure​
+If your application must be accessible only to a hand-picked group of specific individuals, and you don't want to make...","2025-01-29T10:58:51.072Z"
+"/docs/kratos/manage-identities/account-recovery","Initiate account recovery for a user | Ory","Administrative account recovery > One-time codes​ > Response​ > Magic links​ > Response​
+You can initiate account recovery for users using the admin API endpoints. You can initiate the flow even for users that don't...","2025-01-29T10:58:51.289Z"
+"/docs/kratos/manage-identities/export-user-accounts-identities","Learn how to export Ory identities | Ory","Export identities
+Ory Identities allows you to export identities including their hashed credentials using the include_credential attribute on the...","2025-01-29T10:58:51.489Z"
+"/docs/kratos/manage-identities/managing-users-identities-metadata","Learn about the types of data that make up user accounts in Ory | Ory","Identity metadata & traits > Metadata​ > Traits​
+Identities have traits and metadata:...","2025-01-29T10:58:51.699Z"
+"/docs/identities/model/manage-identity-schema","Manage identity schemas | Ory","Manage identity schemas > Use an existing preset​ > Create custom schema​ > Update identity schemas​ > Update identities to use a new schema​
+This document explains how to create, update, and manage identity schemas in Ory Network....","2025-01-29T10:58:51.928Z"
+"/docs/kratos/manage-identities/customize-identity-schema","Learn how to customize Ory identity schemas | Ory","
+...","2025-01-29T10:58:52.136Z"
+"/docs/kratos/manage-identities/best-practices","Best practices for creating secure and functional accounts for your users | Ory","Identity schema best practices > Sensitive data​ > Keep your data lean​ > Updating identity schemas​ > Sanitize usernames/traits​
+Follow this guide to learn about best practices when creating custom identity schemas....","2025-01-29T10:58:52.479Z"
+"/docs/kratos/emails-sms/sending-emails-smtp","Use a custom server to send Ory Identity messages to users | Ory","Use a custom server to send Ory Identity messages to users > Send emails using your SMTP server​ > SMTP security mechanisms​ > SMTP Integrations​ > Send emails using an HTTP server​ > Payload​ > HTTP Integrations​ > Troubleshooting​ > Emails do not arrive​ > Emails are marked as spam​
+The Ory Networ...","2025-01-29T10:58:52.683Z"
+"/docs/kratos/emails-sms/sending-sms","Send SMS to your users | Ory","Send SMS to your users > Configuration​ > Body configuration​ > Templates​
+Ory Network comes with an HTTP based SMS delivery option that can be configured to point to any service that supports sending SMS...","2025-01-29T10:58:52.892Z"
+"/docs/identities/sign-in/check-session-token-cookie-api","Check for user session status in browser cookies and session tokens | Ory","Check session status > Session response​
+Ory stores session data in different ways for browser apps and native apps:...","2025-01-29T10:58:53.141Z"
+"/docs/kratos/session-management/session-lifespan","Adjusting user session lifespan in Ory | Ory","Session lifespan > Session cookie 'max-age'​ > Privileged sessions​ > Configuration​
+Each session is valid for a set amount of time. This time is the session's lifespan. When the session lifespan expires, the user...","2025-01-29T10:58:53.358Z"
+"/docs/kratos/session-management/refresh-extend-sessions","Refresh sessions | Ory","Refresh sessions > Forcing session refresh​ > Refreshing sessions as administrator​ > Refresh threshold​
+For certain use cases, sessions need to be refreshed on user activity or administrative action....","2025-01-29T10:58:53.583Z"
+"/docs/kratos/session-management/revoke-sessions-hook","Revoke other active user sessions after changing the password | Ory","Revoke other active user sessions after changing the password > Configuration overview​
+In certain use cases, it is important to increase security by terminating active user sessions when they change their password. To...","2025-01-29T10:58:53.792Z"
+"/docs/identities/session-to-jwt-cors","Issue JWTs for Ory Sessions | Ory","Convert Ory Sessions to JSON Web Tokens > End-to-end example​ > JSON Web Token templates​ > JSON Web Token claim mapper​ > JSON Web Token signing key(s)​
+Ory provides a robust session management system that uses cookies for browser clients and API tokens for API clients. It also...","2025-01-29T10:58:54.015Z"
+"/docs/concepts/cache","Low latency with Edge Sessions | Ory","Low latency with Edge Sessions > Caching strategy​ > Performance​ > Impact on business logic​ > Force refresh​ > Configuration​
+Edge Sessions is a caching mechanism in Ory Network that's designed to ensure the lowest possible latency on the critical-path...","2025-01-29T10:58:54.222Z"
+"/docs/kratos/bring-your-own-ui/custom-ui-basic-integration","Basic information you need to integrate your UI with Ory | Ory","
+...","2025-01-29T10:58:54.442Z"
+"/docs/kratos/bring-your-own-ui/custom-ui-advanced-integration","Advanced integration | Ory","Advanced integration > Advanced redirects​ > Login​ > Refreshing user session​ > Social sign-in​ > Two-factor authentication​ > Passwordless authentication​
+This document goes into detail on advanced topics in specific use cases after you have already integrated a basic user interface....","2025-01-29T10:58:54.692Z"
+"/docs/kratos/bring-your-own-ui/custom-ui-ory-elements","Custom user interface with Ory Elements | Ory","Custom user interface with Ory Elements > Prerequisites​ > Run the sample application​ > Closer look at the code​ > Ory SDK instance​ > Application entry point​ > Landing page​ > Login and registration pages​ > Settings page​ > Verification page​ > Recovery page​ > End-to-end tests​ > Learn more​
+Or...","2025-01-29T10:58:54.906Z"
+"/docs/kratos/concepts/ui-user-interface","Understanding UI nodes and error messages | Ory","
+...","2025-01-29T10:58:55.119Z"
+"/docs/oauth2-oidc/revoke-consent","Revoke user consent | Ory","Revoke user consent > Per-application basis​ > All applications​
+You can revoke user consent on a per-application basis, or for all applications to which the user granted their consent....","2025-01-29T10:58:55.370Z"
+"/docs/oauth2-oidc/skip-consent","Skip consent and logout consent | Ory","Skip consent and logout consent > Skip logout consent​
+In first-party scenarios, you may want to skip the consent screen and automatically grant consent to the client. This can be done...","2025-01-29T10:58:55.578Z"
+"/docs/oauth2-oidc/jwt-access-token","Opaque and JWT access tokens | Ory","Opaque and JWT access tokens > Opaque access tokens versus JWT​ > Refresh tokens are always opaque​ > JWT access tokens​ > Global configuration​ > Per-client configuration​ > Revoking JSON Web Tokens​ > Limitations​ > JSON Web Token validation​ > Custom consent UI and custom claims for (JWT) access ...","2025-01-29T10:58:55.808Z"
+"/docs/hydra/guides/audiences","OAuth2 token audience | Ory","OAuth2 token audience > Add audiences to the client allow list​ > Audience in Authorization Code, Implicit, and hybrid flows​ > Audiences in Client Credentials Grant​
+There are two types of audience concepts in OAuth 2.0 and OpenID Connect:...","2025-01-29T10:58:56.046Z"
+"/docs/hydra/guides/jwt","JSON Web Token (JWT) profile for OAuth2 | Ory","JSON Web Token (JWT) profile for OAuth2 > Usage scenario​ > Ory JWT profile capabilities​ > Using JWTs as Authorization Grants​ > Establishing a trust relationship​ > Exchanging JWT assertion for access token​ > JWT assertion validation requirements​ > Configuring JWT validation parameters​ > JWTs f...","2025-01-29T10:58:56.269Z"
+"/docs/hydra/guides/client-token-expiration","Configure token expiration time | Ory","Configure token expiration time > Access token​ > Refresh token​ > Authorization code​ > ID token​ > Login and consent flow​ > Lifespan configuration for specific clients​
+This document describes how to configure the token expiration time for various tokens in Ory, including the user login and conse...","2025-01-29T10:58:56.482Z"
+"/docs/hydra/guides/graceful-token-refresh","Graceful token refresh | Ory","Graceful refresh token rotation > Enable graceful refresh token rotation​ > Disable graceful refresh token rotation​ > Configuration in self-hosted deployments​ > Example behavior with grace period​ > Use cases for graceful refresh token rotation​
+Graceful refresh token rotation is a feature in Ory ...","2025-01-29T10:58:56.681Z"
+"/docs/oauth2-oidc/openid-connect-claims-scope-custom","Customize OpenID Connect scope and claims | Ory","Customize OpenID Connect scope and claims > The default setup of Ory OAuth2 and OpenID Connect​ > How the email scope works​ > How the profile scope works​ > Customize Scopes and Claims​ > Customize scope claim key​
+In this document you will learn how OpenID Connect scope and claims work with Ory OA...","2025-01-29T10:58:56.886Z"
+"/docs/hydra/jwks","Cryptographic key management and JSON Web Key Sets (JWKS) | Ory","Cryptographic key management and JSON Web Key Sets (JWKS) > JSON Web Keys​ > Public key only​ > Default cryptographic keys in Ory​ > How to rotate cryptographic keys​ > Rotate OpenID Connect ID token keys​ > Rotate OAuth 2.0 access token JWT keys​ > The role of /.well-known/jwks.json​ > Add custom k...","2025-01-29T10:58:57.095Z"
+"/docs/hydra/guides/openid","Subject anonymization | Ory","Subject anonymization > Public algorithm​ > Pairwise algorithm​ > Using 'login_hint' with a different subject​
+Ory OAuth2 and OpenID Connect offers two subject identifier algorithms: public and pairwise. These algorithms are used to...","2025-01-29T10:58:57.301Z"
+"/docs/oauth2-oidc/issuer-url","Change the OAuth2 issuer URL | Ory","Change the OAuth2 issuer URL
+When your OAuth2 or OpenID Connect client complains that the issuer URL is incorrect, this can have the following reasons:...","2025-01-29T10:58:57.505Z"
+"/docs/guides/manage-project-via-api","Manage Ory Network projects through the API | Ory","Manage Ory Network projects through the API > Usage​ > Ory Network projects API snippets​ > List all projects​ > Create a project​ > Delete a project​ > Get a project​ > Update an Ory Network project Configuration​ > List a project's API Tokens​ > Create project API token​ > Delete project API token...","2025-01-29T10:58:57.724Z"
+"/docs/console/change-owner","Change a project or workspace owner | Ory","Change a project or workspace owner > The project is part of a workspace​ > The project is not part of a workspace (legacy projects)​
+In Ory Network, managing project ownership is sometimes required. Projects are typically part of a workspace, where you can easily...","2025-01-29T10:58:57.926Z"
+"/docs/guides/gitops","Manage Ory Network configuration in git | Ory","Manage Ory Network configuration in git > Ory Network configuration​ > Ory Identities configuration​ > Ory OAuth2 & OpenID Connect configuration​ > Ory Permissions configuration and Ory Permission Language​ > OpenID Connect Claims and Ory Actions payload​ > Identity Schema​ > Email Templates​
+This g...","2025-01-29T10:58:58.148Z"
+"/docs/actions/live-events","Live event streams | Ory","Live event streams > Event descriptions​ > Ory Identities​ > Ory OAuth2​ > Ory Permissions​ > Configure event streams​ > Stream to AWS SNS​ > Retry policy​
+You can stream events (sign-ups, logins, machine-to-machine tokens issued, and many more) in real-time, live as they happen in...","2025-01-29T10:58:58.357Z"
+"/docs/migrate-to-ory/migrate-from-auth0","Migrate users from Auth0 to Ory | Ory","Migrate from Auth0 > Export password hashes​ > Create Auth0 support ticket​ > Exported password hashes​ > Create a bulk user export​ > Get API Access Token and connection ID​ > Run the script​ > Import users to Ory​
+This guide shows you how to migrate user accounts from Auth0 to Ory. The instruction...","2025-01-29T10:58:58.576Z"
+"/docs/hydra/self-hosted/migrating-from-mitreid","Guide to migrate from MITREid to Ory | Ory","Migrating from MITREid > Scopes​ > Scope vs Scp​ > Query string parameters​ > Scope Strategies if no scope is requested​
+This page contains tips and tricks to move your current MITREid instance to Ory OAuth2 & OpenID....","2025-01-29T10:58:58.779Z"
+"/docs/kratos/social-signin/overview","Set up social sign-in and connect with OAuth2 and OpenID Connect providers | Ory","Get started with social sign-in > Reduce friction, boost conversion​ > Configuration through Ory Console and CLI​
+Out of the box, Ory comes with custom-tailored connectors for 15+ social sign-in providers such as GitHub, Google, or Facebook....","2025-01-29T10:58:58.968Z"
+"/docs/kratos/mfa/lookup-secrets","Lookup Secrets - a MFA fail-safe | Ory","Lookup Secrets - a MFA fail-safe > Configuration​ > Identity credentials​
+Lookup Secrets, also known as Backup Codes or Recovery Codes, are a 2FA fail-safe mechanism, rather than a standalone two-factor...","2025-01-29T10:58:59.175Z"
+"/docs/identities/sign-in/two-step-registration","Two-step registration | Ory","Two-step registration
+With a one-step registration, when you enable multiple authentication strategies (for example password, code via email, and...","2025-01-29T10:58:59.378Z"
+"/docs/self-hosted/deployment","Database | Ory","Database > Integrates with Kubernetes​ > Data storage and persistence​ > In-memory (ephemeral)​ > SQL (persistent)​
+Ory technology is cloud first and runs natively on Docker and Kubernetes and naturally supports Kubernetes Helm Charts. Head over...","2025-01-29T10:58:59.582Z"
+"/docs/ecosystem/configuring","Configuration | Ory","Configuration > Configuration Format​ > Loading Configuration from Files​ > Loading Configuration from Environment Variables​ > Loading Configuration from CLI Flags​ > Configuration Types​
+All Ory services share the same configuration system. This page documents the details and edge cases that apply...","2025-01-29T10:58:59.788Z"
+"/docs/ecosystem/upgrading","Versioning and upgrades | Ory","Versioning and upgrades > Upgrades​ > Versioning​ > Development stages​
+Running security-critical open source technology in a self-service format requires vigilance. We make your life easier by...","2025-01-29T10:58:59.979Z"
+"/docs/ecosystem/sqa","Software quality assurance | Ory","Software quality assurance > Data processing​ > Opt out​ > Data privacy​ > Identification​ > Request telemetry​ > Source code​ > Data example​
+Our goal is to provide you with the fastest and most reliable open source services. To achieve this goal, we collect metrics on...","2025-01-29T10:59:00.183Z"
+"/docs/ecosystem/changelog","Changelog and roadmap | Ory","Changelog and roadmap > Ory Changelog​ > Changelogs​ > Roadmap​ > Feedback​ > Bugs​ > Discussions​
+Read the changelog for Ory Network at changelog.ory.sh !...","2025-01-29T10:59:00.381Z"
+"/docs/ecosystem/benchmark","Performance and benchmarks | Ory","Performance and benchmarks > Ory Hydra​ > BCrypt​ > OAuth 2.0​ > OAuth 2.0 client management​
+We don't include benchmarks against databases (for example MySQL, PostgreSQL, SQLite or CockroachDB).The performance differs a lot...","2025-01-29T10:59:00.589Z"
+"/docs/keto/concepts/relation-tuples","Relationships in Ory Permissions | Ory","Relationships > Relationships and permissions​
+Relationships are the underlying datatype of Ory Permissions. They encode relations between objects, which are...","2025-01-29T10:59:00.788Z"
+"/docs/keto/concepts/subjects","Subjects in Ory Permissions | Ory","Subjects > Subject IDs​ > Subject sets​ > Basic example​ > Advanced example​
+In Ory Keto subjects are a recursive polymorphic datatype. They refer to specific subjects by an identifier defined by the...","2025-01-29T10:59:00.989Z"
+"/docs/keto/concepts/objects","Objects in Ory Permissions | Ory","Objects > Basic example​ > Advanced example​
+Objects are identifiers of entities in an application. For example, objects can represent files, network ports, or physical items....","2025-01-29T10:59:01.192Z"
+"/docs/guides/cli/installation","Installation | Ory","Installation > Installation​ > macOS​ > Linux​ > Windows​ > Docker​ > Binary​
+The Ory CLI is a convenient and easy-to-use tool that helps you manage and configure Ory Network projects....","2025-01-29T10:59:01.532Z"
+"/docs/keto/modeling/create-permission-model","How to create a permission model with Ory Permission Language | Ory","Create a permission model > What is a permission model?​ > How to define a permission model​ > Example: document store​ > Create a list of objects and subjects​ > Determine relationships between objects​ > Define relationships in the OPL​ > List permissions to check for each object​ > Define permiss...","2025-01-29T10:59:01.768Z"
+"/docs/kratos/sdk/go","Ory Identity Management Go SDK | Ory","
+...","2025-01-29T10:59:01.976Z"
+"/docs/hydra/sdk/js","Ory OAuth2 & OpenID Connect JavaScript SDK | Ory","Ory OAuth2 & OpenID Connect JavaScript SDK > Installation​ > Configuration​
+In this document you can find code examples for the Ory OAuth2 JavaScript SDK....","2025-01-29T10:59:02.297Z"
+"/docs/keto/sdk/go","Ory Permissions Go SDK | Ory","Ory Permissions Go SDK > Installation​ > Installation REST API​ > Installation gRPC API​ > REST API examples​ > CreateRelationship and CheckPermission​
+In this document you can find code examples for the Ory Permissions Go SDK....","2025-01-29T10:59:02.518Z"
+"/docs/guides/allowlist","Configure Ory Network IP addresses as allow list | Ory","Configure Ory Network IP addresses as allow list
+To enhance your security measures while using the Ory Network, we've narrowed down the source IP addresses for all of our egress...","2025-01-29T10:59:02.711Z"
+"/docs/identities/sign-in/actions","Customize login and registration flows with webhooks and actions | Ory","Login and registration webhooks and actions > Customize login and registration behavior​ > Trigger external logic with webhooks​ > Revoke previously issued sessions at login​ > Allow login only with verified email​ > Log in users after registration​ > Show verification after successful registration​...","2025-01-29T10:59:02.949Z"
+"/docs/reference/api#operation/initializeSelfServiceLoginFlowForBrowsers","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:03.200Z"
+"/docs/reference/api#operation/initializeSelfServiceLoginFlowWithoutBrowser","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:03.278Z"
+"/docs/kratos/bring-your-own-ui/custom-ui-overview","Custom UI overview | Ory","Overview > When to use the Ory Account Experience​ > When to build a custom user interface​ > Ory Elements​ > Next steps​
+Ory is designed to allow you to use custom user interfaces (UI) for browser and native applications thanks to simple-to-use...","2025-01-29T10:59:03.450Z"
+"/docs/reference/api#tag/oAuth2/operation/createOAuth2Client","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:03.692Z"
+"/docs/reference/api#tag/oAuth2/operation/setOAuth2Client","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:03.772Z"
+"/docs/reference/api#tag/oAuth2/operation/patchOAuth2Client","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:03.842Z"
+"/docs/reference/api#tag/oAuth2/operation/deleteOAuth2Client","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:03.915Z"
+"/docs/reference/api#tag/oAuth2/operation/createOidcDynamicClient","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:03.984Z"
+"/docs/reference/api#tag/oAuth2/operation/getOidcDynamicClient","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:04.060Z"
+"/docs/reference/api#tag/oAuth2/operation/setOidcDynamicClient","Ory REST HTTP API Documentation | Ory","Ory APIs (latest) > Introduction > SDKs > frontend > Get WebAuthn JavaScript  > Responses >  Response samples  > Get User-Flow Errors  > Responses >  Response samples  > Submit a Login Flow  > Responses >  Request samples  >  Response samples  > Create Login Flow for Native Apps  > Responses >  Resp...","2025-01-29T10:59:05.293Z"
+"/docs/reference/api#tag/oAuth2/operation/deleteOidcDynamicClient","Ory REST HTTP API Documentation | Ory","Ory APIs (latest) > Introduction > SDKs > frontend > Get WebAuthn JavaScript  > Responses >  Response samples  > Get User-Flow Errors  > Responses >  Response samples  > Submit a Login Flow  > Responses >  Request samples  >  Response samples  > Create Login Flow for Native Apps  > Responses >  Resp...","2025-01-29T10:59:05.385Z"
+"/docs/cli/ory-create-project","ory create project | Ory","ory create project > ory create project​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Create a new Ory Network project...","2025-01-29T10:59:05.580Z"
+"/docs/account-experience/","Account Experience Overview | Ory","Account Experience Overview > Theming​ > Welcome Screen​ > Translations (i18n) & Message Customization​ > Custom Domains​
+The Ory Account Experience is the default user interface for all self-service screens like login, registration, or consent. It can...","2025-01-29T10:59:05.751Z"
+"/docs/reference/api#tag/identity/operation/createIdentity","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:05.986Z"
+"/docs/reference/api#tag/identity/operation/batchPatchIdentities","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:06.065Z"
+"/docs/concepts/personal-access-token","Authorization with API Keys | Ory","Ory Network API Keys > Authorizing Ory Network Project Frontend APIs​ > Authorizing Ory Network Project Admin APIs​ > Creating API Keys​ > Usage​ > Authorizing Ory Network Workspace Admin APIs​ > Creating API keys​ > Usage​ > Workspace API Keys vs Project API Keys​
+Ory Network Project APIs are separ...","2025-01-29T10:59:06.241Z"
+"/docs/guides/cors","Set up CORS for Ory Network | Ory","Set up CORS for Ory Network > Supported Endpoints​ > Enable CORS​ > CORS on custom domains​
+Cross-Origin Resource Sharing (CORS) is a mechanism to allow cross-origin requests. CORS is a relaxation of the same-origin policy...","2025-01-29T10:59:06.440Z"
+"/docs/security-model","Cookie-based security model | Ory","Cookie-based security model > Access to your domain​ > What about local development?​ > HTTP cookies​ > HTTP cookie domains​ > Cross-Origin HTTP cookies​ > Same top-level domain​ > Cross top-level domain​ > What about JSON Web Tokens?​ > Can I use OAuth 2.0 / OpenID Connect?​ > What about access tok...","2025-01-29T10:59:06.653Z"
+"/docs/identities/native-browser","Browser vs. native apps | Ory","Browser vs. native apps > Browser apps​ > Native apps​
+Ory Identities supports both mobile (native) and browser applications. Because of the broad capabilities browsers offer, they pose...","2025-01-29T10:59:06.849Z"
+"/docs/concepts/redirects","Browser redirects and flow completion | Ory","Browser redirects and flow completion > Allow list​ > Redirect flows​ > Login, registration, and settings​ > Verification, recovery, and logout​ > Reset and update flows​ > Troubleshooting​ > API clients​ > Invalid URL​ > Domain denied​ > Read more​
+This document covers browser redirects for Server ...","2025-01-29T10:59:07.056Z"
+"/docs/kratos/self-service","Self-service flows | Ory","Self-service flows > Performing login, registration, settings, ... flows​ > Browser flows for server-side apps: Node.js, PHP, Java, ...​ > Initialization and redirect to UI​ > Form rendering​ > Form submission and payload validation​ > Browser flows for client-side apps: Single-Page-Apps, React.js, ...","2025-01-29T10:59:07.271Z"
+"/docs/kratos/concepts/browser-redirect-flow-completion","HTTP redirection configuration | Ory","HTTP redirection configuration > Redirection​ > Post-login redirection​ > Post-registration redirection​ > Post-settings redirection​ > Post-verification redirection​ > JSON​
+Self-Service flows such as Login, Registration, Updating Settings support two successful response modes:...","2025-01-29T10:59:07.538Z"
+"/docs/kratos/self-service/flows/user-registration","Registration | Ory","Registration > Initialize registration flow​ > Registration for server-side browser clients​ > Registration for client-side (AJAX) browser clients​ > Registration for API clients and clients without browsers​ > Registration form payloads​ > Registration with username/email and password​ > Registrati...","2025-01-29T10:59:07.770Z"
+"/docs/kratos/self-service/flows/user-login","Login | Ory","
+...","2025-01-29T10:59:08.074Z"
+"/docs/kratos/self-service/flows/user-logout","Logout | Ory","Logout > Server-rendered browser applications​ > Post-logout redirect​ > Single page application (SPA)​ > Native API applications​
+The logout flow is used to terminate an Ory Identities session. Ory provides logout on all supported clients:...","2025-01-29T10:59:08.352Z"
+"/docs/kratos/self-service/flows/user-settings","Settings and profile updates | Ory","
+...","2025-01-29T10:59:08.532Z"
+"/docs/kratos/self-service/flows/verify-email-account-activation","Verify addresses associated with users accounts | Ory","Address verification > Configuration​ > Identity schema​ > Attempted verification notifications​ > Email templates​ > Allow login only with verified email​ > Carry over verified status from Social Sign-In​ > Phone number verification​ > Choosing the right strategy​ > Comparison​ > Showing the verifi...","2025-01-29T10:59:09.270Z"
+"/docs/kratos/self-service/flows/account-recovery-password-reset","Ory","
+...","2025-01-29T10:59:09.577Z"
+"/docs/kratos/self-service/flows/user-facing-errors","User-facing errors | Ory","User-facing errors > User-facing errors in the browser​ > User-facing errors when consuming APIs​ > Using stub errors​
+Because Ory Kratos doesn't render User Interfaces, we implemented a flow that allows you to implement the error page in any way...","2025-01-29T10:59:09.765Z"
+"/docs/kratos/concepts/credentials","Credentials | Ory","Credentials
+Each identity has one or more credentials associated with it:...","2025-01-29T10:59:09.964Z"
+"/docs/concepts/password-policy","Password policy | Ory","Password policy > Minimum password length​ > Similarity check​ > Leaked password check​ > Best practices​ > Custom User Interface​ > Password complexity​ > User interface guidelines​ > Password hints​ > Password expiry​
+Password-based authentication flows are subject to frequent abuse through social...","2025-01-29T10:59:10.171Z"
+"/docs/kratos/passwordless/passwordless","Use passwordless WebAuthN to protect against phishing attacks | Ory","Use passwordless WebAuthN to protect against phishing attacks > How does Ory support passwordless authentication?​ > Authenticator options for passwordless​ > Resistance to phishing​ > How does passwordless work?​ > How passkeys and passwordless are related​ > Logging in with a passkey across multip...","2025-01-29T10:59:10.350Z"
+"/docs/kratos/mfa/overview","Multi-factor authentication in Ory Network | Ory","Overview > Available methods​ > Time-based one-time password (TOTP)​ > WebAuthn​ > Lookup Secrets​ > SMS​ > Terminology​ > Authentication Method Reference (AMR)​ > Authenticator Assurance Level (AAL)​
+Multi-factor authentication (MFA) provides an additional layer of security that helps ensure that t...","2025-01-29T10:59:10.550Z"
+"/docs/kratos/bring-your-own-ui/configure-ory-to-use-your-ui","Configure Ory to use your UI | Ory","Configure Ory to use your UI > Custom domain setup​ > Multiple custom domains​ > Development​ > Reference implementations and examples​
+To define the paths where Ory calls your custom UI, go to Branding → UI URLs in the Ory Console. This view allows you to define the...","2025-01-29T10:59:10.753Z"
+"/docs/kratos/emails-sms/custom-email-templates","Customize message templates for Ory Identity emails | Ory","Email templates > Built-in templates​ > Using custom message templates​ > Creating templates​ > Available variables​ > Mandatory template formats​ > Customizing template content for specific users​ > Translated templates (i18n)​ > Metadata in templates​ > Transient payload in templates​
+Ory Identiti...","2025-01-29T10:59:10.986Z"
+"/docs/oauth2-oidc/overview/oauth2-concepts","An overview of OAuth2 concepts and use cases | Ory","OAuth2 fundamentals > OAuth2 actors​ > The user: "resource owner"​ > The application: "OAuth2 client"​ > The API: "resource server"​ > The authorization server: Ory OAuth2 and OpenID Connect​ > OAuth2 scopes represent user consent​ > Scopes vs permissions​ > OAuth2 access token audience​ > Creating ...","2025-01-29T10:59:11.200Z"
+"/docs/oauth2-oidc/overview/oidc-concepts","OpenID Connect overview | Ory","OpenID Connect overview > OpenID Connect extends regular OAuth2​ > OpenID Connect vs. SAML​ > How Does OpenID Connect Work?​ > The ID Token​
+OpenID Connect is an identity layer built on top of the OAuth 2.0 protocol. At its core, it allows an application to securely...","2025-01-29T10:59:11.414Z"
+"/docs/hydra/concepts/before-oauth2","When to use OAuth2 | Ory","When to use OAuth2
+OAuth2 is a popular authorization and consent protocol that has been widely adopted by developers to enable third-party...","2025-01-29T10:59:11.610Z"
+"/docs/hydra/guides/using-oauth2","Popular OAuth2 client libraries | Ory","Popular OAuth2 client libraries
+Use open source & battle-tested libraries to consume OAuth2 and OpenID Connect:...","2025-01-29T10:59:11.809Z"
+"/docs/hydra/security-architecture","OAuth 2.0 security overview | Ory","OAuth 2.0 security overview > Security principles​ > Advanced token validation (datastore security)​ > Token Prefixes​ > Cryptography​ > AES-GCM​ > RSA​ > ECDSA​ > HMAC-SHA256​ > PBKDF2​ > BCrypt​
+Ory OAuth2 and OpenID Connect is a certified OAuth2 and OpenID Connect provider. It is based on the pop...","2025-01-29T10:59:12.010Z"
+"/docs/oauth2-oidc/authorization-code-flow","OAuth2 authorization code flow | Ory","OAuth2 authorization code flow > Step 1: Get the user's permission​ > Step 2: Redirect to the Authorization Server​ > Step 3: Redirect back to the app​ > Step 4: Exchange code for token​ > Modifying the authorization code flow​ > Get a refresh token​ > Get an OpenID Connect ID token and validate it​...","2025-01-29T10:59:12.218Z"
+"/docs/oauth2-oidc/client-credentials","OAuth2 client credentials flow | Ory","OAuth2 client credentials flow > Basic authentication​ > Body authentication​ > JWT Bearer profile for OAuth2 client authentication​
+OAuth2 is a protocol that allows third-party applications to access a user's data, without having to expose their credentials to...","2025-01-29T10:59:12.462Z"
+"/docs/oauth2-oidc/resource-owner-password-grant","OAuth2 resource owner password credentials grant | Ory","OAuth2 resource owner password credentials grant > Token introspection and access token claims​ > Customizing the claims​
+The resource owner password credentials grant is a legacy grant that Ory Network only supports for enterprise customers. Please...","2025-01-29T10:59:12.644Z"
+"/docs/oauth2-oidc/refresh-token-grant","OAuth2 refresh token grant | Ory","OAuth2 refresh token grant > The refresh token​ > Refresh token flow​ > Requirements for obtaining a refresh token​ > Refreshing an access token​ > Refreshing an ID token​ > Refresh token rotation and security protections​ > Change refresh token lifespan​ > Custom consent UI​
+In OAuth2 and OpenID Co...","2025-01-29T10:59:12.870Z"
+"/docs/oauth2-oidc/userinfo-oidc","OpenID Connect userinfo endpoint | Ory","OpenID Connect userinfo endpoint > Calling the userinfo endpoint using Ory SDK​ > Adding custom claims to the userinfo response​ > Returning a signed JWT from the userinfo endpoint​
+The OpenID Connect (OIDC) userinfo endpoint is a protected resource that provides information about a user when a serv...","2025-01-29T10:59:13.118Z"
+"/docs/oauth2-oidc/oidc-logout","OpenID Connect logout | Ory","OpenID Connect logout > OpenID Connect Front-Channel Logout 1.0​ > OpenID Connect Back-Channel Logout 1.0​ > Send the ID token in 'id_token_hint'​ > Redirect after logout​ > Logout logic diagram​
+Ory OAuth2 and OpenID Connect allows you to implement:...","2025-01-29T10:59:13.330Z"
+"/docs/hydra/guides/custom-ui-oauth2","Try out custom OAuth2 login and consent | Ory","Try out custom OAuth2 login and consent > Prerequisites​ > Create OAuth2 client in Ory Network​ > Run the sample application​ > Configure Ory Network​ > Start a local web server acting as OAuth2 client​ > Run the flow​
+When using OAuth2 grants in Ory Network, you can use your custom UI implementatio...","2025-01-29T10:59:13.553Z"
+"/docs/oauth2-oidc/custom-login-consent/flow","User login and consent flow | Ory","User login and consent flow > How Ory OAuth2 and OpenID Connect works​ > Example implementation​ > Login​ > Login endpoint code example​ > Consent​ > Skipping consent for trusted clients​ > Previous consent​ > Consent endpoint code example​ > Flow steps​ > Sequence diagram​
+This guide will walk you ...","2025-01-29T10:59:13.865Z"
+"/docs/hydra/guides/logout","Implementing the OIDC logout endpoint & UI | Ory","Implementing the OIDC logout endpoint & UI > OpenID Connect logout overview​ > Customize logout experience​ > Code example​ > Mermaid diagram​
+When using Ory OAuth2 and OpenID Connect, by default the logout operation is handled by the Ory Account Experience. Alternatively,...","2025-01-29T10:59:14.099Z"
+"/docs/keto/concepts/namespaces","Namespaces in Ory Permissions | Ory","Namespaces > Definition​ > Naming conventions​ > Namespaces​ > Relationships​ > Examples​
+In Ory Permissions, namespaces fulfill two purposes:...","2025-01-29T10:59:14.309Z"
+"/docs/keto/concepts/graph-of-relations","Graph of relations | Ory","Graph of relations > Definition​ > Example​
+The relationships of the access control list used by Ory Permissions can be represented as a graph of...","2025-01-29T10:59:14.516Z"
+"/docs/keto/concepts/api-overview","Ory Permissions API overview | Ory","API overview > Read APIs​ > List relationships​ > Check relationships​ > Expand subject sets​ > Write APIs​ > Change relationships​
+This page gives an overview of Ory Permissions APIs including common use cases....","2025-01-29T10:59:14.723Z"
+"/docs/keto/guides/simple-access-check-guide","How to integrate permission checks to your application | Ory","How to integrate permission checks to your application > Understand Ory Permissions​ > Synchronous authorization flow​ > Best practices​ > Don't cache permission checks​ > Perform permission checks in every critical path of the application​ > Use fine-grained permissions​ > Audit permissions​
+In thi...","2025-01-29T10:59:14.924Z"
+"/docs/keto/guides/list-api-display-objects","List API: display all objects a user has access to | Ory","List API: display all objects a user has access to > Example​ > Listing objects​ > Listing subjects​ > Application context​ > Pagination​
+In this guide you will learn how to use Ory Keto's list API to display a list of all objects (for example files, ...) a user has...","2025-01-29T10:59:15.152Z"
+"/docs/keto/guides/expand-api-display-who-has-access","Expand API: display who has access to an object | Ory","Expand API: display who has access to an object > Example​ > Displaying who has access​ > Maximum tree depth​ > Analyzing the tree​
+This guide will explain how to use Ory Keto's expand-API to display who has access to an object, and why. Please refer to the...","2025-01-29T10:59:15.370Z"
+"/docs/keto/sdk/overview","Software Development Kit (SDK) | Ory","Software Development Kit (SDK) > Download the SDK​ > SDK backward compatibility​
+The Ory Keto SDK allows for integration with a self-hosted Ory Keto Permission Server....","2025-01-29T10:59:15.576Z"
+"/docs/actions/session","Sign in after registration | Ory","Sign in after registration > Toggle action​ > Web browser registration​ > Native App registration​
+The session action is used to sign in the user after they successfully registered. If the option to verify the email address...","2025-01-29T10:59:15.783Z"
+"/docs/actions/revoke-active-sessions","One active session per user | Ory","One active session per user > Toggle action​
+The revoke_active_sessions action is used to log out a user from all other active sessions. This ensures that every user has...","2025-01-29T10:59:15.988Z"
+"/docs/actions/require-verified-address","Require verified address | Ory","Require verified address > Toggle action​
+The require_verified_address action is used on login triggers. As the name suggests, this action requires users to have a...","2025-01-29T10:59:16.195Z"
+"/docs/ecosystem/api-design","API Design | Ory","API Design > Date format​ > Pagination​
+This document provides a summary of Ory's REST design with topics like pagination and date formats. If you're interested in Ory's...","2025-01-29T10:59:16.405Z"
+"/docs/guides/custom-domains","Set up custom domains | Ory","Set up custom domains > Adding a custom domain to your project​ > CORS​ > Setting up a CNAME record​ > Troubleshooting​ > CAA records​ > What is a CAA record?​ > How do I tell if my domain is configured to use a CAA record?​ > What must I do if my domain is configured with a CAA record?​ > Additiona...","2025-01-29T10:59:16.601Z"
+"/docs/guides/api-rest-pagination","API REST Pagination | Ory","API REST Pagination > Token pagination​ > Pagination parameters​ > How it works​ > Best practices​ > Usage examples​ > Scenario 1: Python SDK​ > Scenario 2: Ruby SDK​ > Offset pagination (Deprecated)​ > How it works​ > Example usage​ > Migrating to token pagination​ > Handling pagination errors​
+Pag...","2025-01-29T10:59:16.824Z"
+"/docs/guides/workspaces","Ory Network Workspaces, Projects, and Environments | Ory","Understand Workspaces and Environments > Workspaces​ > Workspace-Level functionality​ > Workspace member management​ > Environments​ > Comparison with previous model​
+Ory Network has introduced two key concepts to simplify and streamline the management of multiple projects: Workspaces and...","2025-01-29T10:59:17.031Z"
+"/docs/guides/rate-limits","Understand Ory Network rate limiting | Ory","Understand Ory Network rate limiting > Types of rate limits​ > Project rate limits in workspaces​ > How project rate limits work in workspaces​ > Rate limit structure​ > Determine your project's rate limits​ > Rate limit tables by subscription plan​ > Endpoint based rate limits​ > How endpoint based...","2025-01-29T10:59:17.460Z"
+"/docs/api/eventual-consistency","Eventual consistency | Ory","Eventual consistency > Consistency Levels​ > Strong Consistency (slow)​ > Eventual Consistency (fast)​ > Default Consistency​ > Identity List API Support​
+Ory Network is a global, planet-spanning system with data distributed across numerous continents. To enhance query performance,...","2025-01-29T10:59:17.677Z"
+"/docs/console/usage-billing","Usage-based billing | Ory","Usage-based billing > Overview​ > Ory Console UI​ > Invoices for the current billing period​ > Proration, upgrades and downgrades​
+While we are rolling out usage-based billing, we will not collect payment for overusage. Payment collection will be rolled out...","2025-01-29T10:59:17.858Z"
+"/docs/category/ory-cli-reference","Ory CLI reference | Ory","📄️ Installation > 📄️ Basic functionality > 📄️ Ory Identities CLI > 📄️ Configure Ory OAuth2 and OpenID > 📄️ Configure Ory Permissions > 📄️ Ory Proxy and Ory Tunnel > 📄️ Configure projects with Ory CLI > 🗃️ CLI commands reference
+The Ory CLI is a convenient and easy-to-use tool that helps you ...","2025-01-29T10:59:18.049Z"
+"/docs/guides/cli/cli-basics","Basic functionality | Ory","Basic functionality > Authentication​ > Browser login​ > API key​ > Set the working context​ > Create a new workspace and project​
+To get a full list of commands available in Ory CLI, run this command:...","2025-01-29T10:59:18.260Z"
+"/docs/guides/cli/identity-cli","Ory Identities CLI | Ory","Ory Identities CLI > Export configuration from Ory Network​ > Export to file​ > Import configuration to Ory Network​ > Adjust specific keys​
+Using the Ory CLI, you can quickly adjust the configuration of the Ory Identities and apply config from the Ory Network...","2025-01-29T10:59:18.452Z"
+"/docs/guides/cli/oauth2-cli","Configure Ory OAuth2 and OpenID | Ory","Configure Ory OAuth2 and OpenID > Export configuration from Ory Network​ > Export to file​ > Import configuration to Ory Network​ > Adjust specific keys​
+Using the Ory CLI, you can quickly adjust the configuration of the Ory OAuth2 and OpenID and apply config from the Ory Network...","2025-01-29T10:59:18.658Z"
+"/docs/guides/cli/configure-permission-service","Configure Ory Permissions | Ory","Configure Ory Permissions > Export configuration from Ory Network​ > Export to file​ > Import configuration to Ory Network​ > Adjust specific keys​ > Manage relation tuples​ > Create​ > List​ > Delete​
+Using the Ory CLI, you can quickly adjust the configuration of Ory Permissions and apply config fr...","2025-01-29T10:59:19.119Z"
+"/docs/guides/cli/proxy-and-tunnel","Ory Proxy and Ory Tunnel | Ory","Ory Proxy and Ory Tunnel > Ory Tunnel​ > Ory Proxy​ > URL structure​ > Use Ory Proxy for local development​ > Use Ory Proxy with JSON Web Tokens​ > Use Ory Proxy with virtual and dedicated servers​ > Use Ory Proxy in Docker​ > Differences between Ory Tunnel and Ory Proxy​
+The CLI contains two tools ...","2025-01-29T10:59:19.415Z"
+"/docs/guides/cli/config-with-cli","Configure projects with Ory CLI | Ory","Configure projects with Ory CLI > Configure projects​ > Overwrite / import configuration​ > Patch configuration​
+All Ory components use the same configuration format and APIs whether they are self-hosted or used through Ory Network....","2025-01-29T10:59:19.628Z"
+"/docs/category/cli-commands-reference","CLI commands reference | Ory","📄️ ory auth logout > 📄️ ory auth > 📄️ ory create event-stream > 📄️ ory create jwk > 📄️ ory create oauth2-client > 📄️ ory create organization > 📄️ ory create project > 📄️ ory create relation-tuples > 📄️ ory create relationships > 📄️ ory create workspace > 📄️ ory create > 📄️ ory delete acc...","2025-01-29T10:59:19.801Z"
+"/docs/cli/ory-auth-logout","ory auth logout | Ory","ory auth logout > ory auth logout​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Signs you out of your account on this computer....","2025-01-29T10:59:20.010Z"
+"/docs/cli/ory-create-event-stream","ory create event-stream | Ory","ory create event-stream > ory create event-stream​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Create a new event stream...","2025-01-29T10:59:20.217Z"
+"/docs/cli/ory-create-jwk","ory create jwk | Ory","ory create jwk > ory create jwk​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Create a JSON Web Key Set with a JSON Web Key...","2025-01-29T10:59:20.423Z"
+"/docs/cli/ory-create-oauth2-client","ory create oauth2-client | Ory","ory create oauth2-client > ory create oauth2-client​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Create an OAuth 2.0 Client...","2025-01-29T10:59:20.636Z"
+"/docs/cli/ory-create-organization","ory create organization | Ory","ory create organization > ory create organization​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Create a new Ory Network organization...","2025-01-29T10:59:20.840Z"
+"/docs/cli/ory-create-relation-tuples","ory create relation-tuples | Ory","ory create relation-tuples > ory create relation-tuples​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Create relation tuples from JSON files...","2025-01-29T10:59:21.022Z"
+"/docs/cli/ory-create-relationships","ory create relationships | Ory","ory create relationships > ory create relationships​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Create relationships from JSON files...","2025-01-29T10:59:21.231Z"
+"/docs/cli/ory-create-workspace","ory create workspace | Ory","ory create workspace > ory create workspace​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Create a new Ory Network workspace...","2025-01-29T10:59:21.440Z"
+"/docs/cli/ory-create","ory create | Ory","ory create > ory create​ > Options​ > SEE ALSO​
+Create Ory Network resources...","2025-01-29T10:59:21.655Z"
+"/docs/cli/ory-delete-access-tokens","ory delete access-tokens | Ory","ory delete access-tokens > ory delete access-tokens​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Delete all OAuth2 Access Tokens of an OAuth2 Client...","2025-01-29T10:59:21.871Z"
+"/docs/cli/ory-delete-event-stream","ory delete event-stream | Ory","ory delete event-stream > ory delete event-stream​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Delete the event stream with the given ID...","2025-01-29T10:59:22.081Z"
+"/docs/cli/ory-delete-identity","ory delete identity | Ory","ory delete identity > ory delete identity​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Delete one or more identities by their ID(s)...","2025-01-29T10:59:22.289Z"
+"/docs/cli/ory-delete-jwk","ory delete jwk | Ory","ory delete jwk > ory delete jwk​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Delete one or more JSON Web Key Sets by their set ID...","2025-01-29T10:59:22.504Z"
+"/docs/cli/ory-delete-oauth2-client","ory delete oauth2-client | Ory","ory delete oauth2-client > ory delete oauth2-client​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Delete one or more OAuth 2.0 Clients by their ID(s)...","2025-01-29T10:59:22.719Z"
+"/docs/cli/ory-delete-organization","ory delete organization | Ory","ory delete organization > ory delete organization​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Delete the organization with the given ID...","2025-01-29T10:59:22.925Z"
+"/docs/cli/ory-delete-relation-tuples","ory delete relation-tuples | Ory","ory delete relation-tuples > ory delete relation-tuples​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Delete ALL relation tuples matching the relation query....","2025-01-29T10:59:23.137Z"
+"/docs/cli/ory-delete-relationships","ory delete relationships | Ory","ory delete relationships > ory delete relationships​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Delete ALL relationships matching the relation query....","2025-01-29T10:59:23.346Z"
+"/docs/cli/ory-delete","ory delete | Ory","ory delete > ory delete​ > Options​ > SEE ALSO​
+Delete resources...","2025-01-29T10:59:23.556Z"
+"/docs/cli/ory-format-jsonnet","ory format jsonnet | Ory","ory format jsonnet > ory format jsonnet​ > Synopsis​ > Options​ > SEE ALSO​
+Formats JSONNet files using the official JSONNet formatter....","2025-01-29T10:59:23.770Z"
+"/docs/cli/ory-format","ory format | Ory","ory format > ory format​ > Options​ > SEE ALSO​
+Helpers for formatting code...","2025-01-29T10:59:23.979Z"
+"/docs/cli/ory-get-identity-config","ory get identity-config | Ory","ory get identity-config > ory get identity-config​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get Ory Identities configuration....","2025-01-29T10:59:24.193Z"
+"/docs/cli/ory-get-identity","ory get identity | Ory","ory get identity > ory get identity​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get one or more identities by their ID(s)...","2025-01-29T10:59:24.381Z"
+"/docs/cli/ory-get-jwk","ory get jwk | Ory","ory get jwk > ory get jwk​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get one or more JSON Web Key Set by its ID(s)...","2025-01-29T10:59:24.592Z"
+"/docs/cli/ory-get-oauth2-client","ory get oauth2-client | Ory","ory get oauth2-client > ory get oauth2-client​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get one or more OAuth 2.0 Clients by their ID(s)...","2025-01-29T10:59:24.806Z"
+"/docs/cli/ory-get-oauth2-config","ory get oauth2-config | Ory","ory get oauth2-config > ory get oauth2-config​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get Ory OAuth2 & OpenID Connect configuration....","2025-01-29T10:59:25.021Z"
+"/docs/cli/ory-get-permission-config","ory get permission-config | Ory","ory get permission-config > ory get permission-config​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get Ory Permissions configuration....","2025-01-29T10:59:25.230Z"
+"/docs/cli/ory-get-project","ory get project | Ory","ory get project > ory get project​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get the complete configuration of an Ory Network project....","2025-01-29T10:59:25.445Z"
+"/docs/cli/ory-get-workspace","ory get workspace | Ory","ory get workspace > ory get workspace​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get an Ory Network workspaces...","2025-01-29T10:59:25.657Z"
+"/docs/cli/ory-get","ory get | Ory","ory get > ory get​ > Options​ > SEE ALSO​
+Get a resource...","2025-01-29T10:59:25.865Z"
+"/docs/cli/ory-import-identities","ory import identities | Ory","ory import identities > ory import identities​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Import one or more identities from files or STD_IN...","2025-01-29T10:59:26.054Z"
+"/docs/cli/ory-import-jwk","ory import jwk | Ory","ory import jwk > ory import jwk​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Imports JSON Web Keys from one or more JSON files....","2025-01-29T10:59:26.272Z"
+"/docs/cli/ory-import-oauth2-client","ory import oauth2-client | Ory","ory import oauth2-client > ory import oauth2-client​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Import one or more OAuth 2.0 Clients from files or STDIN...","2025-01-29T10:59:26.490Z"
+"/docs/cli/ory-import","ory import | Ory","ory import > ory import​ > Options​ > SEE ALSO​
+Import resources...","2025-01-29T10:59:26.705Z"
+"/docs/cli/ory-introspect-token","ory introspect token | Ory","ory introspect token > ory introspect token​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Introspect an OAuth 2.0 Access or Refresh Token...","2025-01-29T10:59:26.920Z"
+"/docs/cli/ory-introspect","ory introspect | Ory","ory introspect > ory introspect​ > Options​ > SEE ALSO​
+Introspect resources...","2025-01-29T10:59:27.357Z"
+"/docs/cli/ory-is-allowed","ory is allowed | Ory","ory is allowed > ory is allowed​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Check whether a subject has a relation on an object...","2025-01-29T10:59:27.592Z"
+"/docs/cli/ory-is","ory is | Ory","ory is > ory is​ > Options​ > SEE ALSO​
+Assert the state of Ory Network resources...","2025-01-29T10:59:27.771Z"
+"/docs/cli/ory-lint-lint","ory lint lint | Ory","ory lint lint > ory lint lint​ > Synopsis​ > Options​ > SEE ALSO​
+Lints JSONNet files using the official JSONNet linter and exits with a status code of 1 when issues are detected....","2025-01-29T10:59:27.958Z"
+"/docs/cli/ory-lint","ory lint | Ory","ory lint > ory lint​ > Options​ > SEE ALSO​
+Helpers for linting code...","2025-01-29T10:59:28.145Z"
+"/docs/cli/ory-list-event-streams","ory list event-streams | Ory","ory list event-streams > ory list event-streams​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+List your event streams...","2025-01-29T10:59:28.607Z"
+"/docs/cli/ory-list-identities","ory list identities | Ory","ory list identities > ory list identities​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+List identities...","2025-01-29T10:59:28.933Z"
+"/docs/cli/ory-list-oauth2-clients","ory list oauth2-clients | Ory","ory list oauth2-clients > ory list oauth2-clients​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+List OAuth 2.0 Clients...","2025-01-29T10:59:29.119Z"
+"/docs/cli/ory-list-organizations","ory list organizations | Ory","ory list organizations > ory list organizations​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+List your Ory Network organizations...","2025-01-29T10:59:29.325Z"
+"/docs/cli/ory-list-projects","ory list projects | Ory","ory list projects > ory list projects​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+List your Ory Network projects....","2025-01-29T10:59:29.529Z"
+"/docs/cli/ory-list-relation-tuples","ory list relation-tuples | Ory","ory list relation-tuples > ory list relation-tuples​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+List relation tuples...","2025-01-29T10:59:29.744Z"
+"/docs/cli/ory-list-relationships","ory list relationships | Ory","ory list relationships > ory list relationships​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+List relation tuples...","2025-01-29T10:59:29.930Z"
+"/docs/cli/ory-list-workspaces","ory list workspaces | Ory","ory list workspaces > ory list workspaces​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+List Ory Network workspaces...","2025-01-29T10:59:30.132Z"
+"/docs/cli/ory-list","ory list | Ory","ory list > ory list​ > Options​ > SEE ALSO​
+List resources...","2025-01-29T10:59:30.321Z"
+"/docs/cli/ory-open-account-experience-login","ory open account-experience login | Ory","ory open account-experience login > ory open account-experience login​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Open login page...","2025-01-29T10:59:30.528Z"
+"/docs/cli/ory-open-account-experience-recovery","ory open account-experience recovery | Ory","ory open account-experience recovery > ory open account-experience recovery​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Open recovery page...","2025-01-29T10:59:30.736Z"
+"/docs/cli/ory-open-account-experience-registration","ory open account-experience registration | Ory","ory open account-experience registration > ory open account-experience registration​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Open registration page...","2025-01-29T10:59:30.921Z"
+"/docs/cli/ory-open-account-experience-settings","ory open account-experience settings | Ory","ory open account-experience settings > ory open account-experience settings​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Open settings page...","2025-01-29T10:59:31.108Z"
+"/docs/cli/ory-open-account-experience-verification","ory open account-experience verification | Ory","ory open account-experience verification > ory open account-experience verification​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Open verification page...","2025-01-29T10:59:31.315Z"
+"/docs/cli/ory-open-account-experience","ory open account-experience | Ory","ory open account-experience > ory open account-experience​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Open Ory Account Experience Pages...","2025-01-29T10:59:31.523Z"
+"/docs/cli/ory-open","ory open | Ory","ory open > ory open​ > Options​ > SEE ALSO​
+Open Ory Account Experience Pages...","2025-01-29T10:59:31.731Z"
+"/docs/cli/ory-parse-relation-tuples","ory parse relation-tuples | Ory","ory parse relation-tuples > ory parse relation-tuples​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Parse human readable relation tuples...","2025-01-29T10:59:31.937Z"
+"/docs/cli/ory-parse-relationships","ory parse relationships | Ory","ory parse relationships > ory parse relationships​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Parse human readable relationships...","2025-01-29T10:59:32.126Z"
+"/docs/cli/ory-parse","ory parse | Ory","ory parse > ory parse​ > Options​ > SEE ALSO​
+Parse Ory Network resources...","2025-01-29T10:59:32.330Z"
+"/docs/cli/ory-patch-identity-config","ory patch identity-config | Ory","ory patch identity-config > ory patch identity-config​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Patch the Ory Identities configuration of the defined Ory Network project....","2025-01-29T10:59:32.521Z"
+"/docs/cli/ory-patch-oauth2-config","ory patch oauth2-config | Ory","ory patch oauth2-config > ory patch oauth2-config​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Patch the Ory OAuth2 & OpenID Connect configuration of an Ory Network project....","2025-01-29T10:59:32.719Z"
+"/docs/cli/ory-patch-opl","ory patch opl | Ory","ory patch opl > ory patch opl​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Update the Ory Permission Language file in Ory Network...","2025-01-29T10:59:32.931Z"
+"/docs/cli/ory-patch-permission-config","ory patch permission-config | Ory","ory patch permission-config > ory patch permission-config​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Patch the Ory Permissions configuration of an Ory Network project....","2025-01-29T10:59:33.145Z"
+"/docs/cli/ory-patch-project","ory patch project | Ory","ory patch project > ory patch project​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Patch the Ory Network project configuration....","2025-01-29T10:59:33.353Z"
+"/docs/cli/ory-patch","ory patch | Ory","ory patch > ory patch​ > Options​ > SEE ALSO​
+Patch resources...","2025-01-29T10:59:33.568Z"
+"/docs/cli/ory-perform-authorization-code","ory perform authorization-code | Ory","ory perform authorization-code > ory perform authorization-code​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Example OAuth 2.0 Client performing the OAuth 2.0 Authorize Code Flow...","2025-01-29T10:59:33.781Z"
+"/docs/cli/ory-perform-client-credentials","ory perform client-credentials | Ory","ory perform client-credentials > ory perform client-credentials​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Perform the OAuth2 Client Credentials Flow...","2025-01-29T10:59:33.965Z"
+"/docs/cli/ory-perform","ory perform | Ory","ory perform > ory perform​ > Options​ > SEE ALSO​
+Perform a flow...","2025-01-29T10:59:34.173Z"
+"/docs/cli/ory-proxy","ory proxy | Ory","ory proxy > ory proxy​ > Synopsis​ > Connecting to Ory​ > Local development​ > CORS​ > Connecting in automated environments​ > Running behind a gateway (development only)​ > Ports​ > Multiple domains​ > Redirects​ > JSON Web Token​ > Examples​ > Options​ > SEE ALSO​
+Run your app and Ory on the same ...","2025-01-29T10:59:34.397Z"
+"/docs/cli/ory-revoke-token","ory revoke token | Ory","ory revoke token > ory revoke token​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Revoke an access or refresh token...","2025-01-29T10:59:34.607Z"
+"/docs/cli/ory-revoke","ory revoke | Ory","ory revoke > ory revoke​ > Options​ > SEE ALSO​
+Revoke resources...","2025-01-29T10:59:34.794Z"
+"/docs/cli/ory-tunnel","ory tunnel | Ory","ory tunnel > ory tunnel​ > Synopsis​ > Connecting to Ory​ > Connecting in automated environments​ > Local development​ > CORS​ > Running behind a gateway (development only)​ > Ports​ > Cookies​ > Redirects​ > Examples​ > Options​ > SEE ALSO​
+Mirror Ory APIs on your local machine for local developmen...","2025-01-29T10:59:35.016Z"
+"/docs/cli/ory-update-event-stream","ory update event-stream | Ory","ory update event-stream > ory update event-stream​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Update the event stream with the given ID...","2025-01-29T10:59:35.231Z"
+"/docs/cli/ory-update-identity-config","ory update identity-config | Ory","ory update identity-config > ory update identity-config​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Update the Ory Identities configuration of an Ory Network project....","2025-01-29T10:59:35.450Z"
+"/docs/cli/ory-update-oauth2-client","ory update oauth2-client | Ory","ory update oauth2-client > ory update oauth2-client​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Update an OAuth 2.0 Client...","2025-01-29T10:59:35.670Z"
+"/docs/cli/ory-update-oauth2-config","ory update oauth2-config | Ory","ory update oauth2-config > ory update oauth2-config​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Update the Ory OAuth2 & OpenID Connect configuration of an Ory Network project....","2025-01-29T10:59:36.124Z"
+"/docs/cli/ory-update-opl","ory update opl | Ory","ory update opl > ory update opl​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Update the Ory Permission Language file in Ory Network...","2025-01-29T10:59:36.354Z"
+"/docs/cli/ory-update-organization","ory update organization | Ory","ory update organization > ory update organization​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Update the organization with the given ID...","2025-01-29T10:59:36.551Z"
+"/docs/cli/ory-update-permission-config","ory update permission-config | Ory","ory update permission-config > ory update permission-config​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Update Ory Permissions configuration of an Ory Network project....","2025-01-29T10:59:36.772Z"
+"/docs/cli/ory-update-project","ory update project | Ory","ory update project > ory update project​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Update Ory Network project service configuration...","2025-01-29T10:59:36.989Z"
+"/docs/cli/ory-update","ory update | Ory","ory update > ory update​ > Options​ > SEE ALSO​
+Update resources...","2025-01-29T10:59:37.260Z"
+"/docs/cli/ory-use-project","ory use project | Ory","ory use project > ory use project​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Set the project as the default. When no id is provided, prints the currently used default project....","2025-01-29T10:59:37.466Z"
+"/docs/cli/ory-use","ory use | Ory","ory use > ory use​ > Options​ > SEE ALSO​
+Use a resource...","2025-01-29T10:59:37.664Z"
+"/docs/cli/ory-validate-identity","ory validate identity | Ory","ory validate identity > ory validate identity​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Validate local identity files...","2025-01-29T10:59:37.857Z"
+"/docs/cli/ory-validate","ory validate | Ory","ory validate > ory validate​ > Options​ > SEE ALSO​
+Validate resources...","2025-01-29T10:59:38.044Z"
+"/docs/cli/ory-version","ory version | Ory","ory version > ory version​ > Options​ > SEE ALSO​
+Display this binary's version, build time, and git hash of this build...","2025-01-29T10:59:38.247Z"
+"/docs/cli/ory","ory | Ory","ory > ory​ > Options​ > SEE ALSO​
+The Ory CLI...","2025-01-29T10:59:38.433Z"
+"/docs/category/troubleshooting/","Troubleshooting | Ory","📄️ Social sign-in `redirect_uri_mismatch` error (OTA-092022-01) > 📄️ Invalid courier URL > 📄️ CSRF troubleshooting > 📄️ Actions troubleshooting > 📄️ Wrong domain in magic links > 📄️ 72 character limit for BCrypt hashed secrets > 📄️ Social sign-in troubleshooting > 📄️ Troubleshooting iframes ...","2025-01-29T10:59:38.617Z"
+"/docs/troubleshooting/oidc-redirect-url-cname-OTA-092022-01","Social sign-in `redirect_uri_mismatch` error (OTA-092022-01) | Ory","Social sign-in `redirect_uri_mismatch` error (OTA-092022-01) > Mitigation​
+This problem affects projects created before September 2022 that use a custom domain. For newly added social sign-in providers,...","2025-01-29T10:59:38.827Z"
+"/docs/troubleshooting/smtp-courier-OTA-112022-01","Invalid SMTP courier URL format (OTA-112022-01) | Ory","Invalid SMTP courier URL format (OTA-112022-01)
+If you get an error that points you to this document, it means that your email configuration (SMTP URL) is incorrect. The most...","2025-01-29T10:59:39.038Z"
+"/docs/troubleshooting/csrf","Troubleshoot CSRF and cookie-related issues | Ory","CSRF troubleshooting > Public Suffix Domains​ > Ory Identities​ > Accessing cookies from client-side JavaScript​ > Accessing APIs from client-side JavaScript / AJAX​ > Accessing APIs from a server-side application​ > Ory OAuth2​ > Running flows in separate browsers or browser windows​ > Running mult...","2025-01-29T10:59:39.253Z"
+"/docs/troubleshooting/troubleshoot-actions","Troubleshoot Ory Actions Webhook issues | Ory","Troubleshoot Ory Actions Webhook issues > Webhook is not triggered​
+This document describes common issues with Ory Actions and how to solve them....","2025-01-29T10:59:39.476Z"
+"/docs/troubleshooting/magic-link-verification-url","Magic links use old custom domain name | Ory","Magic links use old custom domain name
+After updating their custom domain, some users reported an error that caused the verification emails to come with magic links...","2025-01-29T10:59:39.679Z"
+"/docs/troubleshooting/bcrypt-secret-length","BCrypt hashed passwords and secrets have 72 character limit | Ory","BCrypt hashed passwords and secrets have 72 character limit > OAuth 2.0 Client Secret BCrypt Length​ > Ory Identities​
+BCrypt hashed passwords and secrets have a 72 character limit. This is a limitation of the BCrypt algorithm and the Golang BCrypt...","2025-01-29T10:59:39.878Z"
+"/docs/troubleshooting/troubleshooting-social-sign-in","Troubleshooting social sign-in integrations | Ory","Social sign-in troubleshooting > 'redirect_uri' mismatch​ > 'oryapis.com' doesn't work as authorized redirect URI​ > Redirect loops after successful registration​
+Ensure that the redirect_uri query parameter in the URL matches the authorized redirect URI added to the social sign-in...","2025-01-29T10:59:40.063Z"
+"/docs/troubleshooting/iframes","Troubleshoot iframe related issues | Ory","Troubleshoot iframe related issues
+Iframes can pose a significant security risk for authentication services due to many attack vectors such as clickjacking, iframe...","2025-01-29T10:59:40.239Z"
+"/docs/troubleshooting/oauth2-trust-audience","Troubleshooting OAuth2 JWT Profile | Ory","Troubleshooting OAuth2 JWT Profile
+If you're experiencing issues on Ory Network related to the required audience for the...","2025-01-29T10:59:40.436Z"
+"/docs/troubleshooting/mandatory-redirect-uri","Mandatory `redirect_uri` for OpenID Connect Flows (OTA-072024-01) | Ory","Mandatory redirect_uri for OpenID Connect Flows > Previous Behavior​ > New Requirement​ > Action Required​
+Starting no sooner than August 1st, 2024, Ory Network will enforce the inclusion of redirect_uri in OpenID Connect flow...","2025-01-29T10:59:40.636Z"
+"/docs/troubleshooting/passkeys-webauthn-security-error","SecurityError when using WebAuthn or Passkeys | Ory","SecurityError when using WebAuthn or Passkeys > Relying party ID mismatch​ > Solve relying party ID mismatch​
+The relying party ID is not a registrable domain suffix of, nor equal to the current domain. Subsequently, an attempt to fetch...","2025-01-29T10:59:40.833Z"
+"/docs/oauth2-oidc/identity-provider-integration-settings","Identity Provider Integration Settings | Ory","Identity Provider Integration Settings > Overview​
+Ory OAuth2 and OpenID Connect is by default configured to work with the Ory Identity Provider. And for most use cases no...","2025-01-29T10:59:41.020Z"
+"/docs/guides/upgrade/sdk-v1","Upgrade your Ory SDKs to v1 | Ory","SDK V1 upgrade guide > History​ > Backwards compatibility​ > Upgrade guide​ > JavaScript / TypeScript​ > Identity management​ > Frontend APIs​ > Logout for native apps​ > Logout for browser apps​ > Session checking​ > Permissions & Access Control​
+We are excited to announce the release of version 1....","2025-01-29T10:59:41.258Z"
+"/docs/hydra/debug","Solutions for common OAuth2-related problems | Ory","Solutions for common OAuth2-related problems > OpenID Connect ID Token missing​ > OAuth 2.0 Refresh Token is missing​ > OAuth 2.0 authorize code flow fails​ > Refresh Token flow fails​ > Wrong or misconfigured OAuth 2.0 client​ > Redirect URL isn't whitelisted​ > /oauth2/token endpoint fails for JWK...","2025-01-29T10:59:41.425Z"
+"/docs/hydra/debug/logout","OAuth2 logout not working | Ory","OAuth2 logout not working
+Sometimes, calling /oauth2/sessions/logout doesn't behave as expected, for example:...","2025-01-29T10:59:41.618Z"
+"/docs/hydra/debug/token-endpoint-auth-method","Client auth fails because Wrong token_endpoint_auth_method | Ory","Client auth fails because Wrong token_endpoint_auth_method
+There are multiple ways of authenticating OAuth 2.0 Clients at the /oauth2/token:...","2025-01-29T10:59:41.814Z"
+"/docs/ecosystem/community","Community resources | Ory","Community resources > Community articles and tutorials​ > Ory Blog guest articles​ > Ory​ > Ory Kratos​ > Ory Hydra​ > Ory Keto​ > Ory Oathkeepeer​ > Ory Dockertest​ > Videos​ > Community projects​ > Ory​ > Ory Kratos​ > Ory Hydra​ > Ory Keto​ > Ory Oathkeeper​ > Ory Fosite​ > Archived, Outdated, an...","2025-01-29T10:59:41.998Z"
+"/docs/ecosystem/contributing","Contribute to Ory | Ory","Contribute to Ory > Introduction​ > Frequently asked questions​ > How can I contribute?​ > Communication​ > Conduct​ > Contributing Code​ > Documentation​ > Disclosing vulnerabilities​ > Code Style​ > Working with Forks​ > Releasing Software​ > Defining Release Config​ > Update install script​ > CI​...","2025-01-29T10:59:42.254Z"
+"/docs/open-source/commitment","Ory is committed to open source | Ory","Ory is committed to open source > Why Ory is developing open-source software​ > Engineering economics​ > Establishing and supporting open standards​ > Cut out the middlemen​ > Driving adoption of a platform and ecosystem​ > Paradigm shift​ > Recruiting and onboarding​ > Binary and Docker releases​
+O...","2025-01-29T10:59:42.425Z"
+"/docs/ecosystem/software-architecture-philosophy","Architecture principles | Ory","Architecture principles > Architecture philosophy​ > The best system dependency is no dependency​ > The platform is responsible for horizontal scaling​ > Configuration from environment variables and configuration files​ > The process is stateless and disposable​ > Maintenance tasks run as a one-off ...","2025-01-29T10:59:42.624Z"
+"/docs/keto/concepts/api-overview#write-apis","Ory Permissions API overview | Ory","API overview > Read APIs​ > List relationships​ > Check relationships​ > Expand subject sets​ > Write APIs​ > Change relationships​
+This page gives an overview of Ory Permissions APIs including common use cases....","2025-01-29T10:59:42.837Z"
+"/docs/keto/concepts/api-overview#list-relation-tuples","Ory Permissions API overview | Ory","API overview > Read APIs​ > List relationships​ > Check relationships​ > Expand subject sets​ > Write APIs​ > Change relationships​
+This page gives an overview of Ory Permissions APIs including common use cases....","2025-01-29T10:59:42.902Z"
+"/docs/keto/concepts/api-overview#expand-subject-sets","Ory Permissions API overview | Ory","API overview > Read APIs​ > List relationships​ > Check relationships​ > Expand subject sets​ > Write APIs​ > Change relationships​
+This page gives an overview of Ory Permissions APIs including common use cases....","2025-01-29T10:59:42.962Z"
+"/docs/keto/concepts/api-overview#check-relation-tuple","Ory Permissions API overview | Ory","API overview > Read APIs​ > List relationships​ > Check relationships​ > Expand subject sets​ > Write APIs​ > Change relationships​
+This page gives an overview of Ory Permissions APIs including common use cases....","2025-01-29T10:59:43.028Z"
+"/docs/keto/reference/proto-api","Protocol buffers API | Ory","Protocol Documentation > Table of Contents​ > ory/keto/opl/v1alpha1/syntax_service.proto​ > CheckRequest​ > CheckResponse​ > ParseError​ > SourcePosition​ > SyntaxService​ > ory/keto/relation_tuples/v1alpha2/relation_tuples.proto​ > RelationQuery​ > RelationTuple​ > Subject​ > SubjectSet​ > ory/keto...","2025-01-29T10:59:43.207Z"
+"/docs/kratos/mfa/webauthn-fido-yubikey","Multi-factor authentication with WebAuthn | Ory","WebAuthn and FIDO2 (YubiKey) > Limitations​ > Configuration​ > Ory Console​ > Distinguish identities requesting WebAuthn​ > Writing E2E tests​ > Identity credentials​
+WebAuthn uses the Web Authentication API of the...","2025-01-29T10:59:43.430Z"
+"/docs/concepts/personal-access-token#authorizing-ory-network-workspace-admin-apis","Authorization with API Keys | Ory","Ory Network API Keys > Authorizing Ory Network Project Frontend APIs​ > Authorizing Ory Network Project Admin APIs​ > Creating API Keys​ > Usage​ > Authorizing Ory Network Workspace Admin APIs​ > Creating API keys​ > Usage​ > Workspace API Keys vs Project API Keys​
+Ory Network Project APIs are separ...","2025-01-29T10:59:43.635Z"
+"/docs/kratos/social-signin/oidc-pkce","PKCE for Social Sign-in and B2B SSO | Ory","PKCE for Social Sign-in and B2B SSO > Forcing PKCE​ > Disabling PKCE​
+Ory Identities supports the PKCE (Proof Key for Code Exchange) extension to the OpenID...","2025-01-29T10:59:43.855Z"
+"/docs/hydra/guides/jwt#using-jwts-as-authorization-grants","JSON Web Token (JWT) profile for OAuth2 | Ory","JSON Web Token (JWT) profile for OAuth2 > Usage scenario​ > Ory JWT profile capabilities​ > Using JWTs as Authorization Grants​ > Establishing a trust relationship​ > Exchanging JWT assertion for access token​ > JWT assertion validation requirements​ > Configuring JWT validation parameters​ > JWTs f...","2025-01-29T10:59:44.092Z"
+"/docs/actions/integrations/segment","Segment integration with Ory Actions | Ory","Segment integration with Ory Actions > Configuration​
+Segment is a customer data platform that helps businesses unify their customer data from multiple...","2025-01-29T10:59:44.302Z"
+"/docs/reference/api#tag/identity/operation/getIdentity","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:44.584Z"
+"/docs/reference/api#operation/createIdentity","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:44.662Z"
+"/docs/reference/api#operation/listIdentities","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:44.737Z"
+"/docs/reference/api#operation/getIdentity","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:44.806Z"
+"/docs/reference/api#operation/updateIdentity","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:44.881Z"
+"/docs/kratos/concepts/security#account-enumeration-attacks","Threat models and security profiles | Ory","Threat models and security profiles > Digital identity guidelines​ > Defenses against bots and automated attacks​ > Defenses against brute-force attacks​ > Defenses against cross-site request forgery​ > Password policy​ > OAuth 2.0 security​ > CAPTCHAs​
+Threat modeling is essential for securing a sy...","2025-01-29T10:59:45.058Z"
+"/docs/kratos/emails-sms/custom-email-templates#built-in-templates","Customize message templates for Ory Identity emails | Ory","Email templates > Built-in templates​ > Using custom message templates​ > Creating templates​ > Available variables​ > Mandatory template formats​ > Customizing template content for specific users​ > Translated templates (i18n)​ > Metadata in templates​ > Transient payload in templates​
+Ory Identiti...","2025-01-29T10:59:45.294Z"
+"/docs/kratos/emails-sms/custom-email-templates#available-variables","Customize message templates for Ory Identity emails | Ory","Email templates > Built-in templates​ > Using custom message templates​ > Creating templates​ > Available variables​ > Mandatory template formats​ > Customizing template content for specific users​ > Translated templates (i18n)​ > Metadata in templates​ > Transient payload in templates​
+Ory Identiti...","2025-01-29T10:59:45.371Z"
+"/docs/guides/custom-domains#automated-emails","Set up custom domains | Ory","Set up custom domains > Adding a custom domain to your project​ > CORS​ > Setting up a CNAME record​ > Troubleshooting​ > CAA records​ > What is a CAA record?​ > How do I tell if my domain is configured to use a CAA record?​ > What must I do if my domain is configured with a CAA record?​ > Additiona...","2025-01-29T10:59:45.539Z"
+"/docs/kratos/reference/jsonnet","Data Mapping with Jsonnet | Ory","Data Mapping with Jsonnet > Formatting Jsonnet Code​ > Linting Jsonnet Code​ > Tips & Tricks​ > Optionality​ > Defaults​ > Raising Errors​
+Some modules like the OpenID Connect and OAuth2 Method support Jsonnet,...","2025-01-29T10:59:45.722Z"
+"/docs/reference/api#tag/identity/operation/extendSession","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:45.978Z"
+"/docs/reference/api#tag/frontend/operation/toSession","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:46.062Z"
+"/docs/reference/api#tag/frontend","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:46.134Z"
+"/docs/reference/api#tag/frontend/operation/createBrowserLoginFlow","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:46.209Z"
+"/docs/reference/api#tag/frontend/operation/getWebAuthnJavaScript","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:46.279Z"
+"/docs/reference/api#tag/oAuth2/operation/deleteTrustedOAuth2JwtGrantIssuer","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:46.354Z"
+"/docs/reference/api#tag/oAuth2/operation/getTrustedOAuth2JwtGrantIssuer","Ory REST HTTP API Documentation | Ory","Ory APIs (latest) > Introduction > SDKs > frontend > Get WebAuthn JavaScript  > Responses >  Response samples  > Get User-Flow Errors  > Responses >  Response samples  > Submit a Login Flow  > Responses >  Request samples  >  Response samples  > Create Login Flow for Native Apps  > Responses >  Resp...","2025-01-29T10:59:47.645Z"
+"/docs/reference/api#tag/oAuth2/operation/listTrustedOAuth2JwtGrantIssuers","Ory REST HTTP API Documentation | Ory","Ory APIs (latest) > Introduction > SDKs > frontend > Get WebAuthn JavaScript  > Responses >  Response samples  > Get User-Flow Errors  > Responses >  Response samples  > Submit a Login Flow  > Responses >  Request samples  >  Response samples  > Create Login Flow for Native Apps  > Responses >  Resp...","2025-01-29T10:59:47.744Z"
+"/docs/reference/api#tag/oAuth2/operation/getOAuth2LoginRequest","Ory REST HTTP API Documentation | Ory","Ory APIs (latest) > Introduction > SDKs > frontend > Get WebAuthn JavaScript  > Responses >  Response samples  > Get User-Flow Errors  > Responses >  Response samples  > Submit a Login Flow  > Responses >  Request samples  >  Response samples  > Create Login Flow for Native Apps  > Responses >  Resp...","2025-01-29T10:59:47.829Z"
+"/docs/kratos/social-signin/data-mapping","Learn how to map data from social sign-in providers to Ory identity traits | Ory","Map and merge profile data > Write a Jsonnet data mapper​ > Expected result​ > Use social sign-in data​ > Fill in the data gaps​ > Set identity metadata​ > Emails and phone numbers​ > Configure data mapper​ > End-to-end GitHub example​
+Every social sign-in provider returns different data in their pa...","2025-01-29T10:59:48.036Z"
+"/docs/kratos/social-signin/link-multiple-provider-account","Manage social sign-in providers linked to user accounts | Ory","User account linking > Link accounts​ > Unlink accounts​ > Automatic account linking​ > Security considerations​ > Hide irrelevant authentication methods​
+Ory allows users to link their accounts to social sign-in providers after they signed up, as well as un-link social sign-in...","2025-01-29T10:59:48.253Z"
+"/docs/kratos/social-signin/get-tokens","Learn how to get OIDC/OAuth 2.0 access, refresh, and ID tokens issued by social sign-in providers | Ory","Get social sign-in provider tokens > Encryption​
+You can get the OIDC / OAuth 2.0 access, refresh, and ID tokens issued for the identity by social sign-in providers....","2025-01-29T10:59:48.478Z"
+"/docs/identities/sign-in/social-sign-in/redirect-url","Set custom domain as redirect URL | Ory","Set custom domain as redirect URL
+Some Social Sign-in Providers such as Google or GitHub show the Redirect URL as part of the sign-in process. By default, Ory...","2025-01-29T10:59:48.687Z"
+"/docs/kratos/social-signin/native-apps","Social sign-in for native and mobile apps | Ory","Social sign-in for native and mobile apps > Overview​ > The native app authentication flow​ > Implementation​
+This page covers how to implement social sign-in for native applications via OIDC and OAuth 2.0. The user interaction looks like...","2025-01-29T10:59:48.910Z"
+"/docs/kratos/social-signin/generic","Add any OpenID Connect certified social sign-in provider to your Ory project | Ory","Generic provider > Additional configuration​ > Scopes​ > Data mapping​ > Claims source​ > Troubleshooting​
+The "Generic Provider" option allows you to add any OpenID Connect-certified provider that doesn't require custom API calls to get...","2025-01-29T10:59:49.128Z"
+"/docs/kratos/mfa/totp","Multi-factor authentication with TOTP (Google Authenticator) | Ory","Time-based one-time passwords (TOTP) > Enabling TOTP authentication​ > Custom identity schema​ > Distinguishing identities requesting TOTP​ > Writing E2E tests​ > Identity credentials​
+Time-based one-time passwords are codes made up of digits, that are valid for a short amount of time, usually 30 se...","2025-01-29T10:59:49.342Z"
+"/docs/kratos/mfa/mfa-via-sms","SMS and Email 2FA | Ory","SMS and Email 2FA > Configuration​ > Integration​
+SMS and email can be used to deliver one time codes to users. Ory will deliver a 6-digit code to an SMS / email gateway of your...","2025-01-29T10:59:49.559Z"
+"/docs/kratos/mfa/step-up-authentication","Use dynamic multi-factor (step-up) authentication to protect high-risk operations | Ory","Step-up authentication > Configuration​ > Trigger Dynamic Multi-Factor authentication​
+You can set up multi-factor authentication to work in one of two models:...","2025-01-29T10:59:49.796Z"
+"/docs/identities/sign-in/identifier-first-authentication","Identifier first authentication | Ory","Identifier first authentication > Ory Network​ > Self-hosted Ory Kratos​
+Identifier first authentication first requests the user's identifier such as an email or username before prompting for a password...","2025-01-29T10:59:49.997Z"
+"/docs/identities/sign-in/login-hint","Display login hint for duplicate identifiers | Ory","Display login hint for duplicate identifiers
+Login hints are enabled by default for newly created Ory Network Projects....","2025-01-29T10:59:50.197Z"
+"/docs/kratos/manage-identities/managing-users-identities-metadata#traits","Learn about the types of data that make up user accounts in Ory | Ory","Identity metadata & traits > Metadata​ > Traits​
+Identities have traits and metadata:...","2025-01-29T10:59:50.392Z"
+"/docs/self-hosted/oel/oauth2/changelog","Changelog for Ory Hydra OEL | Ory","Changelog for Ory Hydra OEL > 2024-07-17​ > feat: disable pre-configured multi-region config in Ory Hydra (#6638)​
+Disables the pre-configured multi-region configuration for self-hosting Ory Enterprise License customers....","2025-01-29T10:59:50.596Z"
+"/docs/self-hosted/operations/tracing","Distributed tracing | Ory","Distributed tracing > Tracing options​ > What an Ory trace includes​ > Local setup​ > Tracing configurations​
+Configuring Distributed Tracing (DT) will enable you to obtain a visualization of the call paths that take place in order to...","2025-01-29T10:59:50.820Z"
+"/docs/kratos/guides/upgrade","Apply upgrades | Ory","Apply upgrades
+Follow this guide when upgrading Ory Kratos to a newer version....","2025-01-29T10:59:51.215Z"
+"/docs/self-hosted/operations/logging","Logs and audit trails | Ory","Logs and audit trails > Traces​ > Log fields​ > Audience​ > HTTP request context​
+Log output is sent to stdout/stderr. There is no option to change the log destination. You should use bash pipes instead, for...","2025-01-29T10:59:51.428Z"
+"/docs/hydra/self-hosted/install","Installation | Ory","Installation > Linux​ > macOS​ > Windows​ > Docker​ > Kubernetes​ > Download Binaries​ > Building from source​
+The APIs of Ory open-source Servers don't come with integrated access control. This means that all requests sent to their APIs are...","2025-01-29T10:59:51.633Z"
+"/docs/hydra/self-hosted/quickstart","Ory Hydra OAuth2 Server Quickstart | Ory","Ory Hydra OAuth2 Server Quickstart > Quickstart configuration​
+In this quickstart, you will set up Ory Hydra OAuth2 & OpenID Connect Server and an exemplary User Login & Consent App using...","2025-01-29T10:59:52.259Z"
+"/docs/hydra/self-hosted/deploy-hydra-example","Deploy to production | Ory","
+...","2025-01-29T10:59:52.570Z"
+"/docs/hydra/self-hosted/upgrade","Apply upgrades | Ory","Apply upgrades > Migrate from Hydra v1 to v2​
+Follow this guide when upgrading Ory Hydra to a newer version....","2025-01-29T10:59:52.832Z"
+"/docs/hydra/case-study","Ory Hydra case study | Ory","Ory Hydra case study
+OAuth2 and OpenID Connect are tricky to understand. It's important to keep in mind that OAuth2 is a delegation protocol. Let's...","2025-01-29T10:59:53.031Z"
+"/docs/hydra/faq","FAQ | Ory","FAQ > What to do when things don't work​ > How to omit consent redirection​ > How can I store custom data ?​ > How can I control SQL connection limits?​ > Why is the Resource Owner Password Credentials grant not supported?​ > Should I use OAuth2 tokens for authentication?​ > How to deal with mobile ...","2025-01-29T10:59:53.249Z"
+"/docs/kratos/install","Installation | Ory","Installation > Linux​ > macOS​ > Windows​ > Docker​ > Kubernetes​ > Download Binaries​ > Building from source​
+The APIs of Ory open-source Servers don't come with integrated access control. This means that all requests sent to their APIs are...","2025-01-29T10:59:53.469Z"
+"/docs/hydra/sdk/go","Ory OAuth2 & OpenID Connect Go SDK | Ory","Ory OAuth2 & OpenID Connect Go SDK > Installation​ > Making requests​ > CreateOAuth2Client and ListOAuth2Clients​ > More examples​
+In this document you can find code examples for the Ory OAuth2 Go SDK....","2025-01-29T10:59:53.686Z"
+"/docs/keto/sdk/python","Ory Permissions Python SDK | Ory","Ory Permissions Python SDK > Installation​ > pip install​ > Setuptools​ > CheckPermission​ > Example​
+In this document you can find code examples for the Ory Permissions Python SDK....","2025-01-29T10:59:53.902Z"
+"/docs/actions/integrations/mailchimp","Mailchimp integration with Ory Actions | Ory","Mailchimp integration with Ory Actions > How Ory integrates with Mailchimp​ > Create a Mailchimp webhook​ > Configuration​
+Mailchimp is an email marketing platform that provides tools and services to help businesses send...","2025-01-29T10:59:54.117Z"
+"/docs/actions/integrations/hubspot","HubSpot integration with Ory Actions | Ory","HubSpot integration with Ory Actions > How Ory integrates with HubSpot​ > Create a HubSpot webhook​ > Configuration​
+HubSpot is a CRM platform that can be used to manage data from marketing, sales, content management,...","2025-01-29T10:59:54.333Z"
+"/docs/guides/integrate-with-ory-cloud-through-webhooks#flow-interrupting-webhooks","Trigger custom logic and integrate with external systems with webhooks | Ory","Trigger custom logic and integrate with external systems with webhooks > Creating Actions on the Ory Network​ > Configuration overview​ > Define HTTP request​ > Customizing request body with Jsonnet​ > Request authentication​ > Canceling webhooks​ > Webhook response handling​ > Non-blocking / async ...","2025-01-29T10:59:54.604Z"
+"/docs/reference/api#tag/frontend/operation/getVerificationFlow","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T10:59:54.855Z"
+"/docs/guides/cli/config-with-cli#patch-configuration","Configure projects with Ory CLI | Ory","Configure projects with Ory CLI > Configure projects​ > Overwrite / import configuration​ > Patch configuration​
+All Ory components use the same configuration format and APIs whether they are self-hosted or used through Ory Network....","2025-01-29T10:59:55.063Z"
+"/docs/guides/custom-domains#cors","Set up custom domains | Ory","Set up custom domains > Adding a custom domain to your project​ > CORS​ > Setting up a CNAME record​ > Troubleshooting​ > CAA records​ > What is a CAA record?​ > How do I tell if my domain is configured to use a CAA record?​ > What must I do if my domain is configured with a CAA record?​ > Additiona...","2025-01-29T10:59:55.271Z"
+"/docs/guides/cli/proxy-and-tunnel#ory-tunnel","Ory Proxy and Ory Tunnel | Ory","Ory Proxy and Ory Tunnel > Ory Tunnel​ > Ory Proxy​ > URL structure​ > Use Ory Proxy for local development​ > Use Ory Proxy with JSON Web Tokens​ > Use Ory Proxy with virtual and dedicated servers​ > Use Ory Proxy in Docker​ > Differences between Ory Tunnel and Ory Proxy​
+The CLI contains two tools ...","2025-01-29T10:59:55.486Z"
+"/docs/kratos/reference/api#initialize-registration-flow-for-api-clients","HTTP API documentation | Ory","
+...","2025-01-29T10:59:55.728Z"
+"/docs/kratos/reference/api#tag/frontend/operation/createBrowserRegistrationFlow","HTTP API documentation | Ory","
+...","2025-01-29T10:59:55.799Z"
+"/docs/kratos/reference/api#initialize-settings-flow-for-api-clients","HTTP API documentation | Ory","
+...","2025-01-29T10:59:55.861Z"
+"/docs/kratos/reference/api#get-settings-flow","HTTP API documentation | Ory","
+...","2025-01-29T10:59:55.921Z"
+"/docs/kratos/reference/api#tag/frontend/operation/getVerificationFlow","HTTP API documentation | Ory","
+...","2025-01-29T10:59:55.982Z"
+"/docs/identities/sign-in/actions#show-verification-after-successful-registration","Customize login and registration flows with webhooks and actions | Ory","Login and registration webhooks and actions > Customize login and registration behavior​ > Trigger external logic with webhooks​ > Revoke previously issued sessions at login​ > Allow login only with verified email​ > Log in users after registration​ > Show verification after successful registration​...","2025-01-29T10:59:56.358Z"
+"/docs/kratos/self-service/flows/user-settings#show-verification-after-updating-a-verifiable-address","Settings and profile updates | Ory","Settings and profile updates > Updating privileged fields​ > Initialize settings flow​ > User and profile settings for server-side browser clients​ > User and Profile Settings for Client-Side (AJAX) Browser Clients​ > User and profile settings updates for API clients and clients without browsers​ > ...","2025-01-29T10:59:56.610Z"
+"/docs/identities/sign-in/actions#show-verification-after-login-if-address-is-not-verified-yet","Customize login and registration flows with webhooks and actions | Ory","Login and registration webhooks and actions > Customize login and registration behavior​ > Trigger external logic with webhooks​ > Revoke previously issued sessions at login​ > Allow login only with verified email​ > Log in users after registration​ > Show verification after successful registration​...","2025-01-29T10:59:57.063Z"
+"/docs/kratos/session-management/session-lifespan#privileged-sessions","Adjusting user session lifespan in Ory | Ory","Session lifespan > Session cookie 'max-age'​ > Privileged sessions​ > Configuration​
+Each session is valid for a set amount of time. This time is the session's lifespan. When the session lifespan expires, the user...","2025-01-29T10:59:57.285Z"
+"/docs/kratos/bring-your-own-ui/custom-ui-overview#why-should-i-use-ory-account-experience","Custom UI overview | Ory","Overview > When to use the Ory Account Experience​ > When to build a custom user interface​ > Ory Elements​ > Next steps​
+Ory is designed to allow you to use custom user interfaces (UI) for browser and native applications thanks to simple-to-use...","2025-01-29T10:59:57.488Z"
+"/docs/kratos/manage-identities/managing-users-identities-metadata#metadata","Learn about the types of data that make up user accounts in Ory | Ory","Identity metadata & traits > Metadata​ > Traits​
+Identities have traits and metadata:...","2025-01-29T10:59:57.699Z"
+"/docs/guides/cli/cli-basics#create-ory-cloud-project","Basic functionality | Ory","Basic functionality > Authentication​ > Browser login​ > API key​ > Set the working context​ > Create a new workspace and project​
+To get a full list of commands available in Ory CLI, run this command:...","2025-01-29T10:59:57.907Z"
+"/docs/hydra/reference/api#operation/adminCreateOAuth2Client","HTTP API documentation | Ory","
+...","2025-01-29T10:59:58.134Z"
+"/docs/keto/concepts/subjects#subject-sets","Subjects in Ory Permissions | Ory","Subjects > Subject IDs​ > Subject sets​ > Basic example​ > Advanced example​
+In Ory Keto subjects are a recursive polymorphic datatype. They refer to specific subjects by an identifier defined by the...","2025-01-29T10:59:58.309Z"
+"/docs/keto/concepts/subjects#subject-ids","Subjects in Ory Permissions | Ory","Subjects > Subject IDs​ > Subject sets​ > Basic example​ > Advanced example​
+In Ory Keto subjects are a recursive polymorphic datatype. They refer to specific subjects by an identifier defined by the...","2025-01-29T10:59:58.374Z"
+"/docs/keto/guides/list-api-display-objects#listing-objects","List API: display all objects a user has access to | Ory","List API: display all objects a user has access to > Example​ > Listing objects​ > Listing subjects​ > Application context​ > Pagination​
+In this guide you will learn how to use Ory Keto's list API to display a list of all objects (for example files, ...) a user has...","2025-01-29T10:59:58.552Z"
+"/docs/keto/guides/list-api-display-objects#listing-subjects","List API: display all objects a user has access to | Ory","List API: display all objects a user has access to > Example​ > Listing objects​ > Listing subjects​ > Application context​ > Pagination​
+In this guide you will learn how to use Ory Keto's list API to display a list of all objects (for example files, ...) a user has...","2025-01-29T10:59:58.644Z"
+"/docs/keto/reference/proto-api#readservice","Protocol buffers API | Ory","Protocol Documentation > Table of Contents​ > ory/keto/opl/v1alpha1/syntax_service.proto​ > CheckRequest​ > CheckResponse​ > ParseError​ > SourcePosition​ > SyntaxService​ > ory/keto/relation_tuples/v1alpha2/relation_tuples.proto​ > RelationQuery​ > RelationTuple​ > Subject​ > SubjectSet​ > ory/keto...","2025-01-29T10:59:58.827Z"
+"/docs/keto/reference/rest-api#query-relation-tuples","Ory","
+...","2025-01-29T10:59:59.054Z"
+"/docs/keto/reference/proto-api#checkservice","Protocol buffers API | Ory","Protocol Documentation > Table of Contents​ > ory/keto/opl/v1alpha1/syntax_service.proto​ > CheckRequest​ > CheckResponse​ > ParseError​ > SourcePosition​ > SyntaxService​ > ory/keto/relation_tuples/v1alpha2/relation_tuples.proto​ > RelationQuery​ > RelationTuple​ > Subject​ > SubjectSet​ > ory/keto...","2025-01-29T10:59:59.270Z"
+"/docs/keto/reference/rest-api#check-a-relation-tuple","HTTP API documentation | Ory","
+...","2025-01-29T10:59:59.502Z"
+"/docs/keto/reference/proto-api#expandservice","Protocol buffers API | Ory","Protocol Documentation > Table of Contents​ > ory/keto/opl/v1alpha1/syntax_service.proto​ > CheckRequest​ > CheckResponse​ > ParseError​ > SourcePosition​ > SyntaxService​ > ory/keto/relation_tuples/v1alpha2/relation_tuples.proto​ > RelationQuery​ > RelationTuple​ > Subject​ > SubjectSet​ > ory/keto...","2025-01-29T10:59:59.782Z"
+"/docs/keto/reference/rest-api#getexpand","HTTP API documentation | Ory","
+...","2025-01-29T11:00:00.019Z"
+"/docs/keto/reference/proto-api#writeservice","Protocol buffers API | Ory","Protocol Documentation > Table of Contents​ > ory/keto/opl/v1alpha1/syntax_service.proto​ > CheckRequest​ > CheckResponse​ > ParseError​ > SourcePosition​ > SyntaxService​ > ory/keto/relation_tuples/v1alpha2/relation_tuples.proto​ > RelationQuery​ > RelationTuple​ > Subject​ > SubjectSet​ > ory/keto...","2025-01-29T11:00:00.304Z"
+"/docs/keto/reference/rest-api#write","HTTP API documentation | Ory","
+...","2025-01-29T11:00:00.544Z"
+"/docs/keto/reference/rest-api","HTTP API documentation | Ory","
+...","2025-01-29T11:00:00.853Z"
+"/docs/keto/install","Installation | Ory","Installation > Linux​ > macOS​ > Windows​ > Docker​ > Kubernetes​ > Download Binaries​ > Building from source​
+The APIs of Ory open-source Servers don't come with integrated access control. This means that all requests sent to their APIs are...","2025-01-29T11:00:01.154Z"
+"/docs/keto/quickstart","Quickstart: Cat Videos Example | Ory","Quickstart: Cat Videos Example > Starting the example​ > State of the system​ > Simulating the video sharing application​ > Check incoming requests​
+This example describes a video sharing service. The individual videos are organized in directories. Every directory has an owner...","2025-01-29T11:00:01.409Z"
+"/docs/keto/guides/production","Prepare for production | Ory","Prepare for production > Database​ > Ory Keto API behind an API gateway​ > Scaling​
+Read this document to prepare for production when self-hosting Ory Keto....","2025-01-29T11:00:01.622Z"
+"/docs/keto/guides/v0.7-migration","Migrating to Keto v0.7 | Ory","Migrating to Keto v0.7 > Preparations​ > Recommended procedure​ > Options for adjusting the migration process​
+Ory Keto v0.6 used the table-separated namespaces database schema described in the...","2025-01-29T11:00:01.822Z"
+"/docs/keto/guides/migrating-legacy-policies","Migrating policies from 0.5 to 0.6 | Ory","Migrating policies from 0.5 to 0.6 > Legacy rules example​ > Rewriting it to relationships​ > Alice relationships​ > Creating relationships using the CLI​ > Next steps​
+0.6 release makes Ory Access Control Policy DSL modeled after AWS IAM Policies obsolete. This guide will help you to rewrite your...","2025-01-29T11:00:02.038Z"
+"/docs/keto/guides/upgrade","Apply upgrades | Ory","Apply upgrades > Migrating to Keto 0.7​ > Migrating Keto policies from 0.5 version​
+Follow this guide when upgrading Ory Keto to a newer version....","2025-01-29T11:00:02.230Z"
+"/docs/keto/self-hosted/go","Go | Ory","Go > Installation​ > Installation gRPC API​ > Installation REST API​ > REST API examples​ > CreateRelationship and CheckPermission​
+In this document you can find code examples for the Ory Keto Go SDK....","2025-01-29T11:00:02.440Z"
+"/docs/keto/reference/configuration","Configuration | Ory","Configuration
+You can load the config file from another source using the -c path/to/config.yaml or --config path/to/config.yaml flag: $keto --config path/to/config.yaml....","2025-01-29T11:00:02.662Z"
+"/docs/keto/reference/configuration-editor","Configuration editor | Ory","Configuration editor
+...","2025-01-29T11:00:02.899Z"
+"/docs/keto/cli/keto","keto | Ory","keto > keto​ > Options​ > SEE ALSO​
+Global and consistent permission and authorization server...","2025-01-29T11:00:03.089Z"
+"/docs/open-source/guidelines/rest-api-guidelines","REST API Guidelines | Ory","REST API Guidelines > Context and Reference​ > Goals and Non-Goals​ > The Design for OpenAPI​ > Routes​ > Models​ > Enums​ > Edge Cases​ > API​ > Design Decisions​ > Exemplary Definitions​
+This design documents provides guidelines for specifying API documentation in Go Code using go-swagger, OpenAPI...","2025-01-29T11:00:03.337Z"
+"/docs/kratos/emails-sms/sending-emails-smtp#send-emails-using-your-smtp-server","Use a custom server to send Ory Identity messages to users | Ory","Use a custom server to send Ory Identity messages to users > Send emails using your SMTP server​ > SMTP security mechanisms​ > SMTP Integrations​ > Send emails using an HTTP server​ > Payload​ > HTTP Integrations​ > Troubleshooting​ > Emails do not arrive​ > Emails are marked as spam​
+The Ory Networ...","2025-01-29T11:00:03.566Z"
+"/docs/reference/api#tag/identity/operation/listIdentities","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T11:00:03.813Z"
+"/docs/guides/cli/config-with-cli#create-ory-cloud-project","Configure projects with Ory CLI | Ory","Configure projects with Ory CLI > Configure projects​ > Overwrite / import configuration​ > Patch configuration​
+All Ory components use the same configuration format and APIs whether they are self-hosted or used through Ory Network....","2025-01-29T11:00:04.011Z"
+"/docs/guides/cli/cli-basics#use-cli-with-existing-cloud-account","Basic functionality | Ory","Basic functionality > Authentication​ > Browser login​ > API key​ > Set the working context​ > Create a new workspace and project​
+To get a full list of commands available in Ory CLI, run this command:...","2025-01-29T11:00:04.218Z"
+"/docs/reference/api#operation/updateProject","Ory REST HTTP API Documentation | Ory","
+...","2025-01-29T11:00:04.456Z"
+"/docs/kratos/reference/configuration","Configuration | Ory","Configuration
+You can load the config file from another source using the -c path/to/config.yaml or --config path/to/config.yaml flag: $kratos --config path/to/config.yaml....","2025-01-29T11:00:04.670Z"
+"/docs/kratos/debug/csrf","CSRF troubleshooting | Ory","CSRF troubleshooting > Common issues​ > SameSite attribute​ > Running over HTTP without --dev mode​ > Running on separate (sub)domains​ > Mixing up 127.0.0.1 and localhost​
+For general CRSF troubleshooting visit the CSRF troubleshooting....","2025-01-29T11:00:04.843Z"
+"/docs/kratos/self-service/flows/verify-email-account-activation#choosing-the-right-strategy","Verify addresses associated with users accounts | Ory","Address verification > Configuration​ > Identity schema​ > Attempted verification notifications​ > Email templates​ > Allow login only with verified email​ > Carry over verified status from Social Sign-In​ > Phone number verification​ > Choosing the right strategy​ > Comparison​ > Showing the verifi...","2025-01-29T11:00:05.124Z"
+"/docs/keto/concepts/api-overview#read-apis","Ory Permissions API overview | Ory","API overview > Read APIs​ > List relationships​ > Check relationships​ > Expand subject sets​ > Write APIs​ > Change relationships​
+This page gives an overview of Ory Permissions APIs including common use cases....","2025-01-29T11:00:05.300Z"
+"/docs/keto/cli/keto-check","keto check | Ory","keto check > keto check​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Check whether a subject has a relation on an object...","2025-01-29T11:00:05.502Z"
+"/docs/kratos/bring-your-own-ui/configure-ory-to-use-your-ui#reference-implementations-and-examples","Configure Ory to use your UI | Ory","Configure Ory to use your UI > Custom domain setup​ > Multiple custom domains​ > Development​ > Reference implementations and examples​
+To define the paths where Ory calls your custom UI, go to Branding → UI URLs in the Ory Console. This view allows you to define the...","2025-01-29T11:00:05.709Z"
+"/docs/kratos/quickstart","Quickstart | Ory","Quickstart > Use case: application login and registration​ > Setup​ > Clone Ory Kratos and run it in Docker​ > Network architecture​ > Perform registration, login, and logout​ > Understand how login and registration work​ > Email verification​ > Account recovery​ > Cleaning up Docker​ > Next steps​ ...","2025-01-29T11:00:06.237Z"
+"/docs/kratos/guides/docker","Ory Kratos Docker images | Ory","Docker images > Using the images​ > Running migrations​ > Environment variables​ > DSN​ > SECRETS_DEFAULT​ > Binding configuration directory​ > Example​ > Creating custom Docker images​
+Images are published on Docker Hub as oryd/kratos with these tags:...","2025-01-29T11:00:06.419Z"
+"/docs/kratos/guides/deploy-kratos-example","Deploy to production | Ory","Deploy to production > Create a Droplet​ > Install required dependencies​ > Install PostgreSQL​ > Install Ory Kratos​ > Run Ory Kratos using systemd​ > Install and configure Nginx​ > Install Ory Kratos UI​ > Configure User Interface​ > Secure secrets​ > Next Steps​
+This guide explains how to set up ...","2025-01-29T11:00:06.790Z"
+"/docs/kratos/reference/api","HTTP API documentation | Ory","
+...","2025-01-29T11:00:07.013Z"
+"/docs/kratos/reference/json-schema-json-paths","JSON schema and JSON paths | Ory","JSON schema and JSON paths > JSON Path Syntax​
+JSON Schema is a vocabulary that allows you to annotate and validate JSON documents. It's a IETF...","2025-01-29T11:00:07.685Z"
+"/docs/kratos/reference/html-forms","HTML Form Parser | Ory","HTML Form Parser > Nesting​ > Checkboxes​
+If you're using HTML Forms to sign users up or update profiles, Ory Kratos needs to assert the type of each field, as HTML Form...","2025-01-29T11:00:07.869Z"
+"/docs/kratos/social-signin/github#data-mapping","Add GitHub as a social sign-in provider in Ory | Ory","GitHub > Additional configuration​ > Scopes​ > Data mapping​ > Troubleshooting​
+Follow these steps to add GitHub as a social sign-in provider for your for your project using the Ory Console....","2025-01-29T11:00:08.074Z"
+"/docs/kratos/social-signin/github","Add GitHub as a social sign-in provider in Ory | Ory","GitHub > Additional configuration​ > Scopes​ > Data mapping​ > Troubleshooting​
+Follow these steps to add GitHub as a social sign-in provider for your for your project using the Ory Console....","2025-01-29T11:00:08.296Z"
+"/docs/kratos/social-signin/x-twitter","Add X / Twitter as a social sign-in provider in Ory | Ory","Twitter > Troubleshooting​
+Follow these steps to add Twitter as a social sign-in provider to your project using the Ory Console:...","2025-01-29T11:00:08.524Z"
+"/docs/kratos/social-signin/apple#using-the-apple-sdk-on-native-apps","Add Apple as a social sign-in provider in Ory | Ory","Apple > Webbrowser​ > Using the Apple SDK on native apps​ > Troubleshooting​ > Error: token audience didn't match allowed audiences​
+To add Apple as a social sign-in provider, you need an Apple Developer account. Go to...","2025-01-29T11:00:08.785Z"
+"/docs/kratos/social-signin/google#using-the-google-sdk-on-native-apps","Add Google as a social sign-in provider in Ory | Ory","Google > Additional configuration​ > Scopes​ > Data mapping​ > Additional Parameters​ > Using the Google SDK on native apps​ > Flutter code example​ > Troubleshooting​ > Error: token audience didn't match allowed audiences​
+To add Google as a social sign-in provider, you need a Google Developer acco...","2025-01-29T11:00:09.029Z"
+"/docs/kratos/social-signin/ory","Add Ory OAuth2 or Ory Hydra as a social sign-in provider | Ory","Ory > Setting up the SSO provider​ > Connecting a project to the SSO provider​ > Setting up authentication through the upstream SSO provider​ > Additional configuration​ > Scopes​ > Data mapping​ > Troubleshooting​
+This document explains how to add Ory OAuth2 as an OIDC provider to your Ory Network ...","2025-01-29T11:00:09.261Z"
+"/docs/kratos/social-signin/google","Add Google as a social sign-in provider in Ory | Ory","Google > Additional configuration​ > Scopes​ > Data mapping​ > Additional Parameters​ > Using the Google SDK on native apps​ > Flutter code example​ > Troubleshooting​ > Error: token audience didn't match allowed audiences​
+To add Google as a social sign-in provider, you need a Google Developer acco...","2025-01-29T11:00:09.498Z"
+"/docs/kratos/social-signin/facebook","Add Facebook as a social sign-in provider in Ory | Ory","Facebook > Additional configuration​ > Scopes​ > Data mapping​ > Troubleshooting​
+To add Facebook as a social sign-in provider, you need a Facebook Developer account. Go to...","2025-01-29T11:00:09.688Z"
+"/docs/kratos/social-signin/microsoft","Add Microsoft as a social sign-in provider in Ory | Ory","Microsoft > Additional configuration​ > Scopes​ > Data mapping​ > Selecting a Tenant​ > Subject identifier source​ > Example​ > Troubleshooting​
+To add Microsoft as a social sign-in provider, you need an Azure account with an active subscription. Follow...","2025-01-29T11:00:09.930Z"
+"/docs/kratos/social-signin/apple","Add Apple as a social sign-in provider in Ory | Ory","Apple > Webbrowser​ > Using the Apple SDK on native apps​ > Troubleshooting​ > Error: token audience didn't match allowed audiences​
+To add Apple as a social sign-in provider, you need an Apple Developer account. Go to...","2025-01-29T11:00:10.201Z"
+"/docs/kratos/social-signin/gitlab","Add GitLab as a social sign-in provider in Ory | Ory","GitLab > Troubleshooting​
+Follow these steps to add GitLab as a social sign-in provider to your project using the Ory Console:...","2025-01-29T11:00:10.500Z"
+"/docs/kratos/social-signin/auth0","Add Auth0 as a social sign-in provider in Ory | Ory","Auth0 > Troubleshooting​ > Requested url does not match any rules​
+Follow these steps to add Auth0 as a social sign-in provider to your project using the Ory Console:...","2025-01-29T11:00:10.679Z"
+"/docs/kratos/social-signin/salesforce","Add Salesforce as a social sign-in provider in Ory | Ory","Salesforce > Troubleshooting​ > Requested url does not match any rules​
+Follow these steps to add Salesforce as a social sign-in provider to your project using the Ory Console:...","2025-01-29T11:00:10.893Z"
+"/docs/kratos/social-signin/slack","Add Slack as a social sign-in provider in Ory | Ory","Slack > Troubleshooting​
+Follow these steps to add Slack as a social sign-in provider to your project using the Ory Console:...","2025-01-29T11:00:11.080Z"
+"/docs/kratos/social-signin/spotify","Add Spotify as a social sign-in provider in Ory | Ory","Spotify > Troubleshooting​
+Follow these steps to add Spotify as a social sign-in provider to your project using the Ory Console:...","2025-01-29T11:00:11.300Z"
+"/docs/kratos/social-signin/discord","Add Discord as a social sign-in provider in Ory | Ory","Discord > Troubleshooting​
+Follow these steps to add Discord as a social sign-in provider to your project using the Ory Console:...","2025-01-29T11:00:11.522Z"
+"/docs/kratos/social-signin/twitch","Add Twitch as a social sign-in provider in Ory | Ory","Twitch > Troubleshooting​
+Follow these steps to add Twitch as a social sign-in provider to your project using the Ory CLI:...","2025-01-29T11:00:11.721Z"
+"/docs/kratos/social-signin/netid","Add NetID as a social sign-in provider in Ory | Ory","NetID > Troubleshooting​
+Follow these steps to add NetID as a social sign-in provider to your project using the Ory Console:...","2025-01-29T11:00:11.943Z"
+"/docs/kratos/social-signin/yandex","Add Yandex as a social sign-in provider in Ory | Ory","Yandex > Troubleshooting​
+Follow these steps to add Yandex as a social sign-in provider to your project using the Ory CLI:...","2025-01-29T11:00:12.159Z"
+"/docs/kratos/social-signin/vk","Add VKontakte as a social sign-in provider in Ory | Ory","VKontakte > Troubleshooting​
+Follow these steps to add Twitch as a social sign-in provider to your project using the Ory CLI:...","2025-01-29T11:00:12.356Z"
+"/docs/kratos/social-signin/dingtalk","Add DingTalk as a social sign-in provider in Ory | Ory","DingTalk > Troubleshooting​
+Follow these steps to add DingTalk as a social sign-in provider to your project using the Ory CLI:...","2025-01-29T11:00:12.555Z"
+"/docs/kratos/social-signin/lark","Add lark as a social sign-in provider in Ory | Ory","Lark > Troubleshooting​
+Follow these steps to add Lark as a social sign-in provider to your project using the Ory CLI:...","2025-01-29T11:00:12.777Z"
+"/docs/kratos/social-signin/patreon","Add Patreon as a social sign-in provider in Ory | Ory","Patreon > Troubleshooting​
+Follow these steps to add Patreon as a social sign-in provider to your project using the Ory CLI:...","2025-01-29T11:00:13.000Z"
+"/docs/kratos/social-signin/linkedin","Add LinkedIn as a social sign-in provider in Ory | Ory","LinkedIn > Troubleshooting​ > Legacy LinkedIn provider​
+Follow these steps to add LinkedIn as a social sign-in provider to your project using the Ory Console:...","2025-01-29T11:00:13.224Z"
+"/docs/self-hosted/oel/quickstart","Quickstart | Ory","Quickstart > Prerequisites​ > Ory Hydra Enterprise Build​ > Docker Registry​ > Docker​ > Kubernetes​
+This guide explains how to run Ory software if you have purchased an Ory Enterprise License....","2025-01-29T11:00:13.438Z"
+"/docs/self-hosted/oel/oauth2/migrate","Migrate to Ory Enterprise License | Ory","Upgrade Ory Hydra to Ory Hydra enterprise license (OEL) > Prerequisites​ > Upgrade process​ > 1. Keep the open source version running​ > 2. Run the OEL Image for database migration​ > 3. Switch to Ory Hydra Enterprise License​ > Conclusion​
+This guide outlines the steps to upgrade from self-hosted O...","2025-01-29T11:00:13.629Z"
+"/docs/self-hosted/oel/oauth2/token-prefix","Custom OAuth2 token prefix | Ory","Configurable token prefix for OAuth2 tokens > Default token prefix​ > Examples​ > Customize the token prefix​ > How to configure​ > Example configuration​ > Resulting tokens​ > JSON Web Tokens exception​
+This document explains how to configure the token prefix for OAuth2 access tokens, refresh token...","2025-01-29T11:00:13.835Z"
+"/docs/self-hosted/oel/oauth2/upgrade","Upgrading Ory Hydra OEL | Ory","Upgrading Ory Hydra OEL > Prerequisites​ > Pick the right version​ > Upgrade Using Helm Charts in Kubernetes​ > 1. Enable auto SQL migration​ > 2. Update the image tag​ > 3. Apply / install the helm chart​ > 4. Wait for the upgrade to propagate​ > Upgrade steps without Helm Charts​ > 1. Check Releas...","2025-01-29T11:00:14.048Z"
+"/docs/self-hosted/operations/api-access-control","API access control | Ory","API access control
+The APIs of Ory open-source Servers don't come with integrated access control. This means that all requests sent to their APIs are...","2025-01-29T11:00:14.260Z"
+"/docs/self-hosted/operations/scalability","Scalability | Ory","Scalability > Mail courier​
+Ory services are running in high-scale production environments that handle millions of requests per day. To scale Ory, spin up...","2025-01-29T11:00:14.481Z"
+"/docs/self-hosted/operations/observability","Observability | Ory","Observability > Prometheus​
+All Ory services expose an endpoint for snapshots of data collected by Prometheus. This endpoint is found at /metrics/prometheus...","2025-01-29T11:00:14.695Z"
+"/docs/hydra/reference/configuration","Configuration | Ory","Configuration
+You can load the config file from another source using the -c path/to/config.yaml or --config path/to/config.yaml flag: $hydra --config path/to/config.yaml....","2025-01-29T11:00:14.905Z"
+"/docs/hydra/reference/configuration-editor","Configuration editor | Ory","Configuration editor
+...","2025-01-29T11:00:15.129Z"
+"/docs/hydra/self-hosted/configure-deploy","Run Ory Hydra in Docker | Ory","Run Ory Hydra in Docker > Create a Network​ > Deploy PostgreSQL​ > Deploy Ory Hydra​ > Deploy Login & Consent App​ > Perform OAuth 2.0 Flow​
+The goal of this chapter is to introduce you to a fully functional set up that includes Ory Hydra as well as our User Login &...","2025-01-29T11:00:15.295Z"
+"/docs/hydra/self-hosted/dependencies-environment","Database setup and configuration | Ory","Database setup and configuration > Database configuration​ > Configuration​
+Ory Hydra is built cloud native and implements 12factor principles. The Docker Image is 5 MB light...","2025-01-29T11:00:15.500Z"
+"/docs/hydra/self-hosted/production","Prepare for production | Ory","Prepare for production > Ory Hydra behind an API gateway​ > HTTP clients​ > Routing​ > Exposing administrative and public API endpoints​ > Binding to different interfaces or UNIX sockets​ > Key generation and high availability environments​ > Next steps​
+Read this document to prepare for production ...","2025-01-29T11:00:15.699Z"
+"/docs/hydra/self-hosted/hsm-support","Hardware Security Module support for JSON Web Key sets | Ory","Hardware Security Module support for JSON Web Key sets > Hardware Security Module configuration​ > PKCS#11 attribute mappings to JSON Web Key Set attributes​ > Supported key algorithms​ > Generating key pairs​ > Testing with SoftHSM​ > Install SoftHSM/OpenSC on Mac OSX​ > Install SoftHSM/OpenSC on U...","2025-01-29T11:00:15.929Z"
+"/docs/hydra/self-hosted/merge-multiple-db-secrets","Merge multiple Hydra instances with different system.secrets | Ory","Merge multiple Hydra instances with different system.secrets
+Be advised that this can break client creation if done incorrectly!...","2025-01-29T11:00:16.129Z"
+"/docs/hydra/self-hosted/gitlab","Gitlab Hydra integration | Ory","Gitlab Hydra integration > Preparation​ > Spin up the instances and logging in​ > Creating the client in Ory Hydra​ > OAuth2 login​ > Docker-setup​ > GitLab configuration - OAuth 2 setup​ > GitLab user-creation​ > Conclusion​ > Troubleshooting​ > Client wrong​ > From Hydra: request is missing ... or...","2025-01-29T11:00:16.398Z"
+"/docs/hydra/self-hosted/secrets-key-rotation","Secrets and key rotation | Ory","Secrets and key rotation > Rotation of JSON Web Token Signing Keys​ > OpenID Connect ID Token​ > OAuth 2.0 Access Tokens (JSON Web Token)​ > Rotation of HMAC Token Signing and Database and Cookie Encryption Keys​
+There are two types of key rotation:...","2025-01-29T11:00:16.602Z"
+"/docs/hydra/self-hosted/kubernetes-helm-chart","Kubernetes Helm Chart | Ory","Kubernetes Helm Chart > Installation​ > With SQL database​ > With Google Cloud SQL​ > Configuration​ > Examples​ > Exemplary login and consent app​ > Hydra Maester​
+The Ory Hydra Helm Chart helps you deploy Ory Hydra on Kubernetes using Helm. The source code is available on...","2025-01-29T11:00:16.856Z"
+"/docs/hydra/self-hosted/ssl-https-tls","SSL/TLS, HTTPS, self-signed certificates | Ory","SSL/TLS, HTTPS, self-signed certificates
+If you want to run Ory Hydra using self-signed TLS certificates, you can do the following:...","2025-01-29T11:00:17.062Z"
+"/docs/hydra/guides/cookies","Configuring cookies | Ory","Configuring cookies
+By default, cookies sent by Ory Hydra's API are set without explicitly specifying a SameSite mode. If you wish for these cookies...","2025-01-29T11:00:17.277Z"
+"/docs/hydra/guides/cors","Setting up cross-origin resource sharing (CORS) | Ory","Setting up cross-origin resource sharing (CORS)
+Both Ory Hydra's Admin and Public endpoints support CORS. For detailed information, head over to the exemplary...","2025-01-29T11:00:17.488Z"
+"/docs/self-hosted/hydra/debug/csrf","Common CSRF pitfalls | Ory","Common CSRF pitfalls > Same-site in Chrome​ > Ory Hydra Running Over HTTP Without dev-mode Enabled​ > Mixing up 127.0.0.1 and localhost​ > Reverse proxy or load balancers​
+Google Chrome changed the behavior of SameSite=None so that it isn't possible to use this SameSite mode without the HTTP Cookie...","2025-01-29T11:00:17.696Z"
+"/docs/kratos/sdk/overview","Software Development Kit (SDK) | Ory","Software Development Kit (SDK) > Download the SDK​ > SDK backward compatibility​
+The Ory Kratos SDK allows for integration with a self-hosted Ory Kratos Identity Server....","2025-01-29T11:00:17.912Z"
+"/docs/kratos/cli/kratos-migrate-sql","kratos migrate sql | Ory","kratos migrate sql > kratos migrate sql​ > Synopsis​ > WARNING​ > Options​ > SEE ALSO​
+Create SQL schemas and apply migration plans...","2025-01-29T11:00:18.124Z"
+"/docs/kratos/configuring","Configure Ory Kratos | Ory","Configure Ory Kratos > Configuration file​ > Environmental variables​
+This document describes how the service can be configured. For a documentation on all configuration values head over to the...","2025-01-29T11:00:18.577Z"
+"/docs/hydra/reference/api","HTTP API documentation | Ory","
+...","2025-01-29T11:00:18.817Z"
+"/docs/oathkeeper/","Introduction | Ory","Introduction > Dependencies​ > Operating modes​ > Reverse proxy​ > Access Control Decision API​ > Decision engine​
+Ory Oathkeeper authorizes incoming HTTP requests. It can be the Policy Enforcement Point in your cloud architecture, i.e. a...","2025-01-29T11:00:19.623Z"
+"/docs/hydra/cli/hydra-migrate-sql","hydra migrate sql | Ory","hydra migrate sql > hydra migrate sql​ > Synopsis​ > WARNING​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Create SQL schemas and apply migration plans...","2025-01-29T11:00:19.954Z"
+"/docs/hydra/cli/hydra-serve","hydra serve | Ory","hydra serve > hydra serve​ > Synopsis​ > Configuration​ > Options​ > SEE ALSO​
+Parent command for starting public and administrative HTTP/2 APIs...","2025-01-29T11:00:20.164Z"
+"/docs/hydra/sdk/overview","Software Development Kit (SDK) | Ory","Software Development Kit (SDK) > Download the SDK​ > Handling OAuth2 flows​ > SDK backward compatibility​
+The Ory Hydra SDK allows for integration with a self-hosted Ory Hydra OAuth2 Server....","2025-01-29T11:00:20.373Z"
+"/docs/kratos/debug/troubleshooting","General troubleshooting | Ory","General troubleshooting > 400: Bad Request on self-service flows​ > How can I separate customers/employee data, but have them use the same login dialog​ > Automatic user migration from legacy system​
+Please add your troubleshooting tricks and other tips to this document, You can either open a...","2025-01-29T11:00:20.577Z"
+"/docs/kratos/cli/kratos-cleanup-sql","kratos cleanup sql | Ory","kratos cleanup sql > kratos cleanup sql​ > Synopsis​ > WARNING​ > Options​ > SEE ALSO​
+Cleanup sql database from expired flows and sessions...","2025-01-29T11:00:20.783Z"
+"/docs/hydra/cli/hydra-create-client","hydra create client | Ory","hydra create client > hydra create client​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Create an OAuth 2.0 Client...","2025-01-29T11:00:20.998Z"
+"/docs/keto/concepts/api-overview#expand-subject-set","Ory Permissions API overview | Ory","API overview > Read APIs​ > List relationships​ > Check relationships​ > Expand subject sets​ > Write APIs​ > Change relationships​
+This page gives an overview of Ory Permissions APIs including common use cases....","2025-01-29T11:00:21.171Z"
+"/docs/keto/cli/keto-migrate","keto migrate | Ory","keto migrate > keto migrate​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Commands to migrate the database...","2025-01-29T11:00:21.382Z"
+"/docs/keto/cli/keto-expand","keto expand | Ory","keto expand > keto expand​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Expand a subject set...","2025-01-29T11:00:21.587Z"
+"/docs/keto/cli/keto-migrate-down","keto migrate down | Ory","keto migrate down > keto migrate down​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Migrate the database down...","2025-01-29T11:00:21.784Z"
+"/docs/keto/cli/keto-migrate-status","keto migrate status | Ory","keto migrate status > keto migrate status​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get the current migration status...","2025-01-29T11:00:21.994Z"
+"/docs/keto/cli/keto-migrate-up","keto migrate up | Ory","keto migrate up > keto migrate up​ > Synopsis​ > WARNING​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Migrate the database up...","2025-01-29T11:00:22.196Z"
+"/docs/keto/cli/keto-namespace-migrate-down","keto namespace migrate down | Ory","keto namespace migrate down > keto namespace migrate down​ > SEE ALSO​
+Deprecated: this step is not required anymore since https://github.com/ory/keto/pull/638...","2025-01-29T11:00:22.384Z"
+"/docs/keto/cli/keto-namespace-migrate-legacy","keto namespace migrate legacy | Ory","keto namespace migrate legacy > keto namespace migrate legacy​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Migrate a namespace from v0.6.x to v0.7.x and later....","2025-01-29T11:00:22.593Z"
+"/docs/keto/cli/keto-namespace-migrate-status","keto namespace migrate status | Ory","keto namespace migrate status > keto namespace migrate status​ > SEE ALSO​
+Deprecated: this step is not required anymore since https://github.com/ory/keto/pull/638...","2025-01-29T11:00:22.798Z"
+"/docs/keto/cli/keto-namespace-migrate-up","keto namespace migrate up | Ory","keto namespace migrate up > keto namespace migrate up​ > SEE ALSO​
+Deprecated: this step is not required anymore since https://github.com/ory/keto/pull/638...","2025-01-29T11:00:22.998Z"
+"/docs/keto/cli/keto-namespace-migrate","keto namespace migrate | Ory","keto namespace migrate > keto namespace migrate​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Migrate a namespace...","2025-01-29T11:00:23.211Z"
+"/docs/keto/cli/keto-namespace-validate","keto namespace validate | Ory","keto namespace validate > keto namespace validate​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Validate namespace definitions...","2025-01-29T11:00:23.416Z"
+"/docs/keto/cli/keto-namespace","keto namespace | Ory","keto namespace > keto namespace​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Read and manipulate namespaces...","2025-01-29T11:00:23.617Z"
+"/docs/keto/cli/keto-relation-tuple-create","keto relation-tuple create | Ory","keto relation-tuple create > keto relation-tuple create​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Create relationships from JSON files...","2025-01-29T11:00:23.834Z"
+"/docs/keto/cli/keto-relation-tuple-delete-all","keto relation-tuple delete-all | Ory","keto relation-tuple delete-all > keto relation-tuple delete-all​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Delete ALL relationships matching the relation query....","2025-01-29T11:00:24.046Z"
+"/docs/keto/cli/keto-relation-tuple-delete","keto relation-tuple delete | Ory","keto relation-tuple delete > keto relation-tuple delete​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Delete relationships defined in JSON files...","2025-01-29T11:00:24.250Z"
+"/docs/keto/cli/keto-relation-tuple-get","keto relation-tuple get | Ory","keto relation-tuple get > keto relation-tuple get​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get relationships...","2025-01-29T11:00:24.470Z"
+"/docs/keto/cli/keto-relation-tuple-parse","keto relation-tuple parse | Ory","keto relation-tuple parse > keto relation-tuple parse​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Parse human readable relationships...","2025-01-29T11:00:24.681Z"
+"/docs/keto/cli/keto-relation-tuple","keto relation-tuple | Ory","keto relation-tuple > keto relation-tuple​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Read and manipulate relationships...","2025-01-29T11:00:24.888Z"
+"/docs/keto/cli/keto-serve","keto serve | Ory","keto serve > keto serve​ > Synopsis​ > Configuration​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Starts the server and serves the HTTP REST and gRPC APIs...","2025-01-29T11:00:25.102Z"
+"/docs/keto/cli/keto-status","keto status | Ory","keto status > keto status​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get the status of the upstream Keto instance...","2025-01-29T11:00:25.536Z"
+"/docs/keto/cli/keto-version","keto version | Ory","keto version > keto version​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Show the build version, build time, and git hash...","2025-01-29T11:00:25.742Z"
+"/docs/kratos/guides/e2e-integration-tests","End-to-end and integration tests | Ory","End-to-end and integration tests > Testing React Native on web with Cypress​
+We run integration tests for both the Node.js and...","2025-01-29T11:00:25.947Z"
+"/docs/kratos/self-hosted/go","Go | Ory","Go > Installation​ > Configuration​ > Use Frontend API​ > toSession​ > Use Identity Management API​ > CreateIdentity and DeleteIdentity​ > Gin middleware​ > Echo middleware​
+In this document you can find code examples for a self-hosted Ory Kratos Go SDK....","2025-01-29T11:00:26.200Z"
+"/docs/kratos/debug/debug-docker-delve-ory-kratos","Debugging Ory Kratos in Docker with Delve | Ory","Debugging Ory Kratos in Docker with Delve > As part of a docker-compose setup​ > As a standalone Docker container​
+Very often, there is a need to debug Kratos being deployed as a Docker image. To support this, Kratos ships with a couple of...","2025-01-29T11:00:26.503Z"
+"/docs/kratos/debug/performance-out-of-memory-password-hashing-argon2","Performance problems and out of memory panics caused by password hashing | Ory","Performance problems and out of memory panics caused by password hashing > Common errors​
+This page only applies to you if you use Argon2 instead of BCrypt hashing...","2025-01-29T11:00:26.672Z"
+"/docs/kratos/guides/secret-key-rotation","Secret and Key Rotation | Ory","Secret and Key Rotation
+Ory Kratos needs secrets that are used for encrypting, decrypting, generating and validating signatures, and other cryptographic...","2025-01-29T11:00:26.884Z"
+"/docs/kratos/guides/multi-domain-cookies","Advanced base URL, CSRF and session cookie settings | Ory","Advanced base URL, CSRF and session cookie settings > Base URL​ > Cookies​
+This document describes advanced strategies for multi-domain environments and other scenarios....","2025-01-29T11:00:27.090Z"
+"/docs/kratos/cli/kratos-serve","kratos serve | Ory","kratos serve > kratos serve​ > Options​ > SEE ALSO​
+Run the Ory Kratos server...","2025-01-29T11:00:27.303Z"
+"/docs/kratos/bring-your-own-ui/custom-ui-advanced-integration#upstream-provider-parameters","Advanced integration | Ory","Advanced integration > Advanced redirects​ > Login​ > Refreshing user session​ > Social sign-in​ > Two-factor authentication​ > Passwordless authentication​
+This document goes into detail on advanced topics in specific use cases after you have already integrated a basic user interface....","2025-01-29T11:00:27.585Z"
+"/docs/kratos/guides/production","Go to production | Ory","Go to production > Database​ > Security​ > HTTP clients​ > Admin API​ > Scaling​
+Read this document to prepare for production when self-hosting Ory Kratos....","2025-01-29T11:00:27.761Z"
+"/docs/kratos/guides/multi-tenancy-multitenant","Multitenancy | Ory","Multitenancy
+Ory Network is the only available option to have a multi-tenant Ory Kratos set up. It is not possible to...","2025-01-29T11:00:27.960Z"
+"/docs/kratos/self-hosted/mail-courier-templates","Email templates in self-hosted Ory Kratos | Ory","Email templates in self-hosted Ory Kratos > Configuration​ > Translated templates (I18n)​
+In self-hosted Ory Kratos instances, you can add custom templates from http://, file://, and base64:// URIs. The plaintext...","2025-01-29T11:00:28.147Z"
+"/docs/kratos/guides/tracing","Distributed tracing | Ory","Distributed tracing > What a Kratos trace includes​ > Configuring tracing​
+Configuring Distributed Tracing (DT) will enable you to obtain a visualization of the call paths that take place in order to...","2025-01-29T11:00:28.333Z"
+"/docs/kratos/guides/zero-trust-iap-proxy-identity-access-proxy","Zero Trust with Access Proxy guide | Ory","Zero Trust with Access Proxy guide > Running Ory Kratos and the Ory Oathkeeper identity and access proxy​ > Network architecture​ > Perform registration, login, and logout​ > Configuration​ > Ory Oathkeeper: Identity and Access Proxy​ > ID Token Mutator​ > Error Handling​ > Access Rules​ > Cleaning ...","2025-01-29T11:00:28.573Z"
+"/docs/kratos/guides/https-tls","Set up HTTPS (TLS) | Ory","Set up HTTPS (TLS)
+If you want to run Ory Kratos using self-signed TLS certificates, you can do the following:...","2025-01-29T11:00:28.784Z"
+"/docs/kratos/guides/hosting-own-have-i-been-pwned-api","Host your own breached password detection API | Ory","Host your own breached password detection API
+Ory Kratos uses the Have I Been Pwned (HiBP) API, with the k-anonymity flag, to check if the password the user registers with has...","2025-01-29T11:00:28.991Z"
+"/docs/kratos/self-hosted/mail-courier-selfhosted","Mail courier in self-hosted Ory Kratos | Ory","Mail courier in self-hosted Ory Kratos > How many couriers should you run?​ > Single-instance setup​ > Multi-instance setup​ > Template override path​ > Error handling​ > Custom SMTP headers​ > Certificate-based authentication​ > Custom SMTP HELO/EHLO identifier​
+This document describes the behavior...","2025-01-29T11:00:29.187Z"
+"/docs/hydra/reference/api#openid-connect-userinfo","HTTP API documentation | Ory","
+...","2025-01-29T11:00:29.436Z"
+"/docs/kratos/cli/kratos","kratos | Ory","kratos > kratos​ > Options​ > SEE ALSO​
+...","2025-01-29T11:00:30.194Z"
+"/docs/kratos/cli/kratos-cleanup","kratos cleanup | Ory","kratos cleanup > kratos cleanup​ > Options​ > SEE ALSO​
+Various cleanup helpers...","2025-01-29T11:00:30.397Z"
+"/docs/kratos/cli/kratos-courier-watch","kratos courier watch | Ory","kratos courier watch > kratos courier watch​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Starts the Ory Kratos message courier...","2025-01-29T11:00:30.609Z"
+"/docs/kratos/cli/kratos-courier","kratos courier | Ory","kratos courier > kratos courier​ > Options​ > SEE ALSO​
+Commands related to the Ory Kratos message courier...","2025-01-29T11:00:30.812Z"
+"/docs/kratos/cli/kratos-delete-identity","kratos delete identity | Ory","kratos delete identity > kratos delete identity​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Delete one or more identities by their ID(s)...","2025-01-29T11:00:31.016Z"
+"/docs/kratos/cli/kratos-delete","kratos delete | Ory","kratos delete > kratos delete​ > Options​ > SEE ALSO​
+Delete resources...","2025-01-29T11:00:31.217Z"
+"/docs/kratos/cli/kratos-format-jsonnet","kratos format jsonnet | Ory","kratos format jsonnet > kratos format jsonnet​ > Synopsis​ > Options​ > SEE ALSO​
+Formats JSONNet files using the official JSONNet formatter....","2025-01-29T11:00:31.428Z"
+"/docs/kratos/cli/kratos-format","kratos format | Ory","kratos format > kratos format​ > Options​ > SEE ALSO​
+Helpers for formatting code...","2025-01-29T11:00:31.633Z"
+"/docs/kratos/cli/kratos-get-identity","kratos get identity | Ory","kratos get identity > kratos get identity​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get one or more identities by their ID(s)...","2025-01-29T11:00:31.844Z"
+"/docs/kratos/cli/kratos-get","kratos get | Ory","kratos get > kratos get​ > Options​ > SEE ALSO​
+Get resources...","2025-01-29T11:00:32.047Z"
+"/docs/kratos/cli/kratos-hashers-argon2-calibrate","kratos hashers argon2 calibrate | Ory","kratos hashers argon2 calibrate > kratos hashers argon2 calibrate​ > Synopsis​ > Options​ > SEE ALSO​
+Computes Optimal Argon2 Parameters...","2025-01-29T11:00:32.254Z"
+"/docs/kratos/cli/kratos-hashers-argon2-hash","kratos hashers argon2 hash | Ory","kratos hashers argon2 hash > kratos hashers argon2 hash​ > Options​ > SEE ALSO​
+Hash a list of passwords for benchmarking the hashing parameters...","2025-01-29T11:00:32.468Z"
+"/docs/kratos/cli/kratos-hashers-argon2-load-test","kratos hashers argon2 load-test | Ory","kratos hashers argon2 load-test > kratos hashers argon2 load-test​ > Synopsis​ > Options​ > SEE ALSO​
+Simulate the password hashing with a number of concurrent requests/minute....","2025-01-29T11:00:32.679Z"
+"/docs/kratos/cli/kratos-hashers-argon2","kratos hashers argon2 | Ory","kratos hashers argon2 > kratos hashers argon2​ > Options​ > SEE ALSO​
+...","2025-01-29T11:00:32.896Z"
+"/docs/kratos/cli/kratos-hashers","kratos hashers | Ory","kratos hashers > kratos hashers​ > Options​ > SEE ALSO​
+This command contains helpers around hashing...","2025-01-29T11:00:33.095Z"
+"/docs/kratos/cli/kratos-identities-delete","kratos identities delete | Ory","kratos identities delete > kratos identities delete​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Delete identities by ID...","2025-01-29T11:00:33.438Z"
+"/docs/kratos/cli/kratos-identities-get","kratos identities get | Ory","kratos identities get > kratos identities get​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get one or more identities by ID...","2025-01-29T11:00:33.637Z"
+"/docs/kratos/cli/kratos-identities-import","kratos identities import | Ory","kratos identities import > kratos identities import​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Import identities from files or STD_IN...","2025-01-29T11:00:33.850Z"
+"/docs/kratos/cli/kratos-identities-list","kratos identities list | Ory","kratos identities list > kratos identities list​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+List identities...","2025-01-29T11:00:34.061Z"
+"/docs/kratos/cli/kratos-identities-patch","kratos identities patch | Ory","kratos identities patch > kratos identities patch​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Patch identities by ID (not yet implemented)...","2025-01-29T11:00:34.270Z"
+"/docs/kratos/cli/kratos-identities-put","kratos identities put | Ory","kratos identities put > kratos identities put​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Put identities from files or STD_IN...","2025-01-29T11:00:34.477Z"
+"/docs/kratos/cli/kratos-identities-validate","kratos identities validate | Ory","kratos identities validate > kratos identities validate​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Validate local identity files...","2025-01-29T11:00:34.681Z"
+"/docs/kratos/cli/kratos-identities","kratos identities | Ory","kratos identities > kratos identities​ > Options​ > SEE ALSO​
+Tools to interact with remote identities...","2025-01-29T11:00:34.886Z"
+"/docs/kratos/cli/kratos-import-identities","kratos import identities | Ory","kratos import identities > kratos import identities​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Import one or more identities from files or STD_IN...","2025-01-29T11:00:35.103Z"
+"/docs/kratos/cli/kratos-import","kratos import | Ory","kratos import > kratos import​ > Options​ > SEE ALSO​
+Import resources...","2025-01-29T11:00:35.316Z"
+"/docs/kratos/cli/kratos-jsonnet-format","kratos jsonnet format | Ory","kratos jsonnet format > kratos jsonnet format​ > Synopsis​ > Options​ > SEE ALSO​
+Formats JSONNet files using the official JSONNet formatter....","2025-01-29T11:00:35.520Z"
+"/docs/kratos/cli/kratos-jsonnet-lint","kratos jsonnet lint | Ory","kratos jsonnet lint > kratos jsonnet lint​ > Synopsis​ > Options​ > SEE ALSO​
+Lints JSONNet files using the official JSONNet linter and exits with a status code of 1 when issues are detected....","2025-01-29T11:00:35.733Z"
+"/docs/kratos/cli/kratos-jsonnet","kratos jsonnet | Ory","kratos jsonnet > kratos jsonnet​ > Options​ > SEE ALSO​
+Helpers for linting and formatting JSONNet code...","2025-01-29T11:00:35.936Z"
+"/docs/kratos/cli/kratos-lint-lint","kratos lint lint | Ory","kratos lint lint > kratos lint lint​ > Synopsis​ > Options​ > SEE ALSO​
+Lints JSONNet files using the official JSONNet linter and exits with a status code of 1 when issues are detected....","2025-01-29T11:00:36.147Z"
+"/docs/kratos/cli/kratos-lint","kratos lint | Ory","kratos lint > kratos lint​ > Options​ > SEE ALSO​
+Helpers for linting code...","2025-01-29T11:00:36.357Z"
+"/docs/kratos/cli/kratos-list-identities","kratos list identities | Ory","kratos list identities > kratos list identities​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+List identities...","2025-01-29T11:00:36.564Z"
+"/docs/kratos/cli/kratos-list","kratos list | Ory","kratos list > kratos list​ > Options​ > SEE ALSO​
+List resources...","2025-01-29T11:00:36.769Z"
+"/docs/kratos/cli/kratos-migrate","kratos migrate | Ory","kratos migrate > kratos migrate​ > Options​ > SEE ALSO​
+Various migration helpers...","2025-01-29T11:00:36.982Z"
+"/docs/kratos/cli/kratos-remote-status","kratos remote status | Ory","kratos remote status > kratos remote status​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Print the alive and readiness status of a Ory Kratos instance...","2025-01-29T11:00:37.197Z"
+"/docs/kratos/cli/kratos-remote-version","kratos remote version | Ory","kratos remote version > kratos remote version​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Print the version of an Ory Kratos instance...","2025-01-29T11:00:37.405Z"
+"/docs/kratos/cli/kratos-remote","kratos remote | Ory","kratos remote > kratos remote​ > Options​ > SEE ALSO​
+Helpers and management for remote Ory Kratos instances...","2025-01-29T11:00:37.615Z"
+"/docs/kratos/cli/kratos-validate-identity","kratos validate identity | Ory","kratos validate identity > kratos validate identity​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Validate local identity files...","2025-01-29T11:00:37.831Z"
+"/docs/kratos/cli/kratos-validate","kratos validate | Ory","kratos validate > kratos validate​ > Options​ > SEE ALSO​
+Validate resources...","2025-01-29T11:00:38.044Z"
+"/docs/kratos/cli/kratos-version","kratos version | Ory","kratos version > kratos version​ > Options​ > SEE ALSO​
+Show the build version, build time, and git hash...","2025-01-29T11:00:38.258Z"
+"/docs/kratos/guides/configuring-cookies","Cookie settings | Ory","Cookie settings > Session cookies​
+When working with cookies, keep the following in mind:...","2025-01-29T11:00:38.470Z"
+"/docs/self-hosted/kratos/configuration/password","Passwords settings | Ory","Passwords settings > BCrypt​ > Argon2id​
+To enable or disable passwords, update your configuration file:...","2025-01-29T11:00:38.662Z"
+"/docs/kratos/self-hosted/mfa","Configure multi-factor authentication in Ory Kratos | Ory","Configure multi-factor authentication in Ory Kratos > Enforce MFA​ > WebAuthn​ > Time-based one-time passwords (TOTP)​ > Lookup Secrets (Recovery Codes)​
+When working with self-hosted instances of the Ory Identities (Kratos), change the enforcement model by adjusting the...","2025-01-29T11:00:38.875Z"
+"/docs/kratos/guides/setting-up-cors","Cross-origin resource sharing (CORS) settings | Ory","Cross-origin resource sharing (CORS) settings
+Ory Kratos' Public API supports CORS out of the box. A reference for this configuration can be found in the...","2025-01-29T11:00:39.084Z"
+"/docs/kratos/self-hosted/account-activation-email-verification","Account activation and email verification settings | Ory","Account activation and email verification settings
+To set up email verification, your identity schema must have an email in its traits and...","2025-01-29T11:00:39.299Z"
+"/docs/self-hosted/kratos/configuration/oidc","Social sign-in | Ory","Social sign-in > Example configuration​ > Environment variables​ > Prevent having to log in after sign-up​
+Follow these steps to add a social sign-in provider when self-hosting Ory Kratos....","2025-01-29T11:00:39.766Z"
+"/docs/kratos/guides/setting-up-password-hashing-parameters","Argon2 password hashing parameters | Ory","Argon2 password hashing parameters
+Ory Kratos supports password hashing using Argon2 in the Argon2id variant. It's important to set up it's parameters to ensure a...","2025-01-29T11:00:39.937Z"
+"/docs/kratos/guides/select-cipher-algorithm","Cipher algorithm settings | Ory","Cipher algorithm settings > Noop​ > XChaCha20 Poly1305​ > AES​
+Currently, the Ory Identities (Kratos) supports encryption and decryption for OIDC tokens only. You can choose one of these...","2025-01-29T11:00:40.148Z"
+"/docs/kratos/self-hosted/email-http","HTTP based email delivery | Ory","HTTP based email delivery > Configuration​ > Request configuration​ > Authentication and authorization​
+To send emails using an external mail provider instead of a local SMTP server, Ory Kratos can use an HTTP API (such as Mailchimp,...","2025-01-29T11:00:40.608Z"
+"/docs/kratos/reference/configuration-editor","Configuration editor | Ory","Configuration editor
+...","2025-01-29T11:00:40.935Z"
+"/docs/oathkeeper/install","Installation | Ory","Installation > Linux​ > macOS​ > Windows​ > Docker​ > Kubernetes​ > Download Binaries​ > Building from source​
+Ory software runs on any operating system (FreeBSD, macOS, Linux, Windows, ...) and supports all major CPU platforms (ARM64,...","2025-01-29T11:00:41.152Z"
+"/docs/oathkeeper/reference/api","HTTP API documentation | Ory","
+...","2025-01-29T11:00:41.411Z"
+"/docs/hydra/cli/hydra-create-jwk","hydra create jwk | Ory","hydra create jwk > hydra create jwk​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Create a JSON Web Key Set with a JSON Web Key...","2025-01-29T11:00:41.583Z"
+"/docs/hydra/cli/hydra-create-jwks","hydra create jwks | Ory","hydra create jwks > hydra create jwks​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Create a JSON Web Key Set with a JSON Web Key...","2025-01-29T11:00:41.797Z"
+"/docs/hydra/cli/hydra-create-oauth2-client","hydra create oauth2-client | Ory","hydra create oauth2-client > hydra create oauth2-client​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Create an OAuth 2.0 Client...","2025-01-29T11:00:42.011Z"
+"/docs/hydra/cli/hydra-create","hydra create | Ory","hydra create > hydra create​ > Options​ > SEE ALSO​
+Create resources...","2025-01-29T11:00:42.219Z"
+"/docs/hydra/cli/hydra-delete-access-tokens","hydra delete access-tokens | Ory","hydra delete access-tokens > hydra delete access-tokens​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Delete all OAuth2 Access Tokens of an OAuth2 Client...","2025-01-29T11:00:42.436Z"
+"/docs/hydra/cli/hydra-delete-client","hydra delete client | Ory","hydra delete client > hydra delete client​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Delete one or more OAuth 2.0 Clients by their ID(s)...","2025-01-29T11:00:42.652Z"
+"/docs/hydra/cli/hydra-delete-jwk","hydra delete jwk | Ory","hydra delete jwk > hydra delete jwk​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Delete one or more JSON Web Key Sets by their set ID...","2025-01-29T11:00:42.863Z"
+"/docs/hydra/cli/hydra-delete-jwks","hydra delete jwks | Ory","hydra delete jwks > hydra delete jwks​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Delete one or more JSON Web Key Sets by their set ID...","2025-01-29T11:00:43.078Z"
+"/docs/hydra/cli/hydra-delete-oauth2-client","hydra delete oauth2-client | Ory","hydra delete oauth2-client > hydra delete oauth2-client​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Delete one or more OAuth 2.0 Clients by their ID(s)...","2025-01-29T11:00:43.285Z"
+"/docs/hydra/cli/hydra-delete","hydra delete | Ory","hydra delete > hydra delete​ > Options​ > SEE ALSO​
+Delete resources...","2025-01-29T11:00:43.500Z"
+"/docs/hydra/cli/hydra-get-client","hydra get client | Ory","hydra get client > hydra get client​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get one or more OAuth 2.0 Clients by their ID(s)...","2025-01-29T11:00:43.710Z"
+"/docs/hydra/cli/hydra-get-jwk","hydra get jwk | Ory","hydra get jwk > hydra get jwk​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get one or more JSON Web Key Set by its ID(s)...","2025-01-29T11:00:43.919Z"
+"/docs/hydra/cli/hydra-get-jwks","hydra get jwks | Ory","hydra get jwks > hydra get jwks​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get a JSON Web Key Set by its ID(s)...","2025-01-29T11:00:44.132Z"
+"/docs/hydra/cli/hydra-get-oauth2-client","hydra get oauth2-client | Ory","hydra get oauth2-client > hydra get oauth2-client​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get one or more OAuth 2.0 Clients by their ID(s)...","2025-01-29T11:00:44.343Z"
+"/docs/hydra/cli/hydra-get","hydra get | Ory","hydra get > hydra get​ > Options​ > SEE ALSO​
+Get resources...","2025-01-29T11:00:44.552Z"
+"/docs/hydra/cli/hydra-import-client","hydra import client | Ory","hydra import client > hydra import client​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Import OAuth 2.0 Clients from files or STDIN...","2025-01-29T11:00:44.771Z"
+"/docs/hydra/cli/hydra-import-jwk","hydra import jwk | Ory","hydra import jwk > hydra import jwk​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Imports JSON Web Keys from one or more JSON files....","2025-01-29T11:00:44.984Z"
+"/docs/hydra/cli/hydra-import-oauth2-client","hydra import oauth2-client | Ory","hydra import oauth2-client > hydra import oauth2-client​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Import one or more OAuth 2.0 Clients from files or STDIN...","2025-01-29T11:00:45.203Z"
+"/docs/hydra/cli/hydra-import","hydra import | Ory","hydra import > hydra import​ > Options​ > SEE ALSO​
+Import resources...","2025-01-29T11:00:45.415Z"
+"/docs/hydra/cli/hydra-introspect-token","hydra introspect token | Ory","hydra introspect token > hydra introspect token​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Introspect an OAuth 2.0 Access or Refresh Token...","2025-01-29T11:00:45.632Z"
+"/docs/hydra/cli/hydra-introspect","hydra introspect | Ory","hydra introspect > hydra introspect​ > Options​ > SEE ALSO​
+Introspect resources...","2025-01-29T11:00:45.847Z"
+"/docs/hydra/cli/hydra-janitor","hydra janitor | Ory","hydra janitor > hydra janitor​ > Synopsis​ > Warning​ > Examples​ > Options​ > SEE ALSO​
+This command cleans up stale database rows....","2025-01-29T11:00:46.064Z"
+"/docs/hydra/cli/hydra-list-clients","hydra list clients | Ory","hydra list clients > hydra list clients​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+List OAuth 2.0 Clients...","2025-01-29T11:00:46.275Z"
+"/docs/hydra/cli/hydra-list-oauth2-clients","hydra list oauth2-clients | Ory","hydra list oauth2-clients > hydra list oauth2-clients​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+List OAuth 2.0 Clients...","2025-01-29T11:00:46.497Z"
+"/docs/hydra/cli/hydra-list","hydra list | Ory","hydra list > hydra list​ > Options​ > SEE ALSO​
+List resources...","2025-01-29T11:00:46.706Z"
+"/docs/hydra/cli/hydra-migrate-gen","Ory","hydra migrate gen > hydra migrate gen​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Generate migration files from migration templates...","2025-01-29T11:00:47.040Z"
+"/docs/hydra/cli/hydra-migrate-status","hydra migrate status | Ory","hydra migrate status > hydra migrate status​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get the current migration status...","2025-01-29T11:00:47.250Z"
+"/docs/hydra/cli/hydra-migrate","hydra migrate | Ory","hydra migrate > hydra migrate​ > Options​ > SEE ALSO​
+Various migration helpers...","2025-01-29T11:00:47.462Z"
+"/docs/hydra/cli/hydra-perform-authorization-code","hydra perform authorization-code | Ory","hydra perform authorization-code > hydra perform authorization-code​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Example OAuth 2.0 Client performing the OAuth 2.0 Authorize Code Flow...","2025-01-29T11:00:47.670Z"
+"/docs/hydra/cli/hydra-perform-client-credentials","hydra perform client-credentials | Ory","hydra perform client-credentials > hydra perform client-credentials​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Perform the OAuth2 Client Credentials Flow...","2025-01-29T11:00:47.882Z"
+"/docs/hydra/cli/hydra-perform","hydra perform | Ory","hydra perform > hydra perform​ > Options​ > SEE ALSO​
+Perform OAuth 2.0 Flows...","2025-01-29T11:00:48.094Z"
+"/docs/hydra/cli/hydra-revoke-token","hydra revoke token | Ory","hydra revoke token > hydra revoke token​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Revoke an access or refresh token...","2025-01-29T11:00:48.301Z"
+"/docs/hydra/cli/hydra-revoke","hydra revoke | Ory","hydra revoke > hydra revoke​ > Options​ > SEE ALSO​
+Revoke resources...","2025-01-29T11:00:48.515Z"
+"/docs/hydra/cli/hydra-serve-admin","hydra serve admin | Ory","hydra serve admin > hydra serve admin​ > Synopsis​ > Configuration​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Serves Administrative HTTP/2 APIs...","2025-01-29T11:00:48.728Z"
+"/docs/hydra/cli/hydra-serve-all","hydra serve all | Ory","hydra serve all > hydra serve all​ > Synopsis​ > Configuration​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Serves both public and administrative HTTP/2 APIs...","2025-01-29T11:00:48.937Z"
+"/docs/hydra/cli/hydra-serve-public","hydra serve public | Ory","hydra serve public > hydra serve public​ > Synopsis​ > Configuration​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Serves Public HTTP/2 APIs...","2025-01-29T11:00:49.152Z"
+"/docs/hydra/cli/hydra-update-client","hydra update client | Ory","hydra update client > hydra update client​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Update an OAuth 2.0 Client...","2025-01-29T11:00:49.368Z"
+"/docs/hydra/cli/hydra-update-oauth2-client","hydra update oauth2-client | Ory","hydra update oauth2-client > hydra update oauth2-client​ > Synopsis​ > Examples​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Update an OAuth 2.0 Client...","2025-01-29T11:00:49.586Z"
+"/docs/hydra/cli/hydra-update","hydra update | Ory","hydra update > hydra update​ > Options​ > SEE ALSO​
+Update resources...","2025-01-29T11:00:49.796Z"
+"/docs/hydra/cli/hydra-version","hydra version | Ory","hydra version > hydra version​ > Options​ > SEE ALSO​
+Display this binary's version, build time and git hash of this build...","2025-01-29T11:00:50.001Z"
+"/docs/hydra/cli/hydra","hydra | Ory","hydra > hydra​ > Options​ > SEE ALSO​
+Run and manage Ory Hydra...","2025-01-29T11:00:50.213Z"
+"/docs/hydra/self-hosted/go","Ory Hydra Go | Ory","Ory Hydra Go > Installation​ > Configuration​ > Making requests​ > With Authentication​ > Status codes and error handling​ > On every request​ > Fake TLS termination​ > Skip TLS verification​
+In this document you can find code examples for the Ory Hydra Go SDK....","2025-01-29T11:00:50.495Z"
+"/docs/hydra/self-hosted/js","JavaScript | Ory","JavaScript > Installation​ > Basic configuration​
+In this document you can find code examples for the Ory Hydra JavaScript SDK....","2025-01-29T11:00:50.684Z"
+"/docs/kratos/emails-sms/custom-email-templates#translated-templates-i18n","Customize message templates for Ory Identity emails | Ory","Email templates > Built-in templates​ > Using custom message templates​ > Creating templates​ > Available variables​ > Mandatory template formats​ > Customizing template content for specific users​ > Translated templates (i18n)​ > Metadata in templates​ > Transient payload in templates​
+Ory Identiti...","2025-01-29T11:00:50.919Z"
+"/docs/oathkeeper/api-access-rules","API access rules | Ory","API access rules > Access rule format​ > Handler configuration​ > Scoped credentials​ > Match strategy behavior​
+Ory Oathkeeper reaches decisions to allow or deny access by applying Access Rules. Access Rules can be stored on the file system,...","2025-01-29T11:00:51.130Z"
+"/docs/oathkeeper/guides/upgrade","Apply upgrades | Ory","Apply upgrades
+Follow this guide when upgrading Ory Oathkeeper to a newer version....","2025-01-29T11:00:51.327Z"
+"/docs/oathkeeper/reference/configuration","Configuration | Ory","Configuration
+You can load the config file from another source using the -c path/to/config.yaml or --config path/to/config.yaml flag: $oathkeeper --config path/to/config.yaml....","2025-01-29T11:00:51.558Z"
+"/docs/oathkeeper/grpc-middleware","gRPC middleware | Ory","gRPC middleware
+In addition to exposing Ory Oathkeeper as a HTTP proxy, you can directly embed it into your Go application as a gRPC middleware....","2025-01-29T11:00:51.763Z"
+"/docs/oathkeeper/pipeline/authn","Authenticators | Ory","Authenticators > noop​ > noop configuration​ > noop access rule example​ > unauthorized​ > unauthorized Configuration​ > unauthorized access rule example​ > anonymous​ > anonymous Configuration​ > anonymous access rule example​ > cookie_session​ > cookie_session configuration​ > cookie_session acces...","2025-01-29T11:00:51.983Z"
+"/docs/oathkeeper/pipeline/authz","Authorizers | Ory","
+...","2025-01-29T11:00:52.400Z"
+"/docs/oathkeeper/pipeline/mutator","Mutators | Ory","Mutators > noop​ > noop configuration​ > noop access rule example​ > id_token​ > id_token configuration​ > id_token access rule example​ > header​ > header configuration​ > header access rule example​ > cookie​ > cookie configuration​ > Cookies​ > hydrator​ > Cache​ > hydrator configuration​ > hydra...","2025-01-29T11:00:52.687Z"
+"/docs/oathkeeper/pipeline/error","Error handlers | Ory","Error handlers > Error matching​ > Fallback​ > Matchers​ > Error Handlers​ > json​ > redirect​ > www_authenticate​
+A error handler is responsible for executing logic after, for example, authentication or authorization failed. Ory Oathkeeper...","2025-01-29T11:00:52.899Z"
+"/docs/oathkeeper/pipeline","Access rule pipeline | Ory","Access rule pipeline > Templating​ > Session​ > RegexpCaptureGroups​ > Configuration Examples​
+Read more about the principal components and execution pipeline of access rules if you haven't already....","2025-01-29T11:00:53.122Z"
+"/docs/oathkeeper/configure-deploy","Configure and deploy | Ory","Configure and deploy > Configure​ > Access rules​ > Cryptographic keys​ > Dockerfile​ > Build & run​ > Authorize requests​ > Monitoring​
+The Ory Oathkeeper HTTP serve process oathkeeper serve opens two ports exposing the...","2025-01-29T11:00:53.377Z"
+"/docs/oathkeeper/guides/proxy-websockets","Define WebSockets rules | Ory","Define WebSockets rules > Install Ory Kratos and Ory Oathkeeper​ > Configure Ory Oathkeeper and Ory Kratos​ > WebSocket service​ > Testing​
+This guide shows how to use Ory Oathkeeper with WebSockets....","2025-01-29T11:00:53.628Z"
+"/docs/oathkeeper/guides/traefik-proxy-integration","Traefik proxy integration | Ory","Traefik proxy integration
+Traefik is modern HTTP proxy and load balancer for microservices, oathkeeper can be integrated...","2025-01-29T11:00:53.875Z"
+"/docs/oathkeeper/reference/configuration-editor","Configuration editor | Ory","Configuration editor
+...","2025-01-29T11:00:54.092Z"
+"/docs/oathkeeper/sdk","Software Development Kit (SDK) | Ory","Software Development Kit (SDK) > Download the SDK​ > Further information​ > SDK Backwards compatibility​
+The Ory Oathkeeper SDK allows for integration with Ory Oathkeeper....","2025-01-29T11:00:54.278Z"
+"/docs/oathkeeper/pipeline#session","Access rule pipeline | Ory","Access rule pipeline > Templating​ > Session​ > RegexpCaptureGroups​ > Configuration Examples​
+Read more about the principal components and execution pipeline of access rules if you haven't already....","2025-01-29T11:00:54.500Z"
+"/docs/oathkeeper/pipeline/mutator#id_token","Mutators | Ory","Mutators > noop​ > noop configuration​ > noop access rule example​ > id_token​ > id_token configuration​ > id_token access rule example​ > header​ > header configuration​ > header access rule example​ > cookie​ > cookie configuration​ > Cookies​ > hydrator​ > Cache​ > hydrator configuration​ > hydra...","2025-01-29T11:00:54.769Z"
+"/docs/oathkeeper/#reverse-proxy","Introduction | Ory","Introduction > Dependencies​ > Operating modes​ > Reverse proxy​ > Access Control Decision API​ > Decision engine​
+Ory Oathkeeper authorizes incoming HTTP requests. It can be the Policy Enforcement Point in your cloud architecture, i.e. a...","2025-01-29T11:00:54.986Z"
+"/docs/oathkeeper/#access-control-decision-api","Introduction | Ory","Introduction > Dependencies​ > Operating modes​ > Reverse proxy​ > Access Control Decision API​ > Decision engine​
+Ory Oathkeeper authorizes incoming HTTP requests. It can be the Policy Enforcement Point in your cloud architecture, i.e. a...","2025-01-29T11:00:55.059Z"
+"/docs/oathkeeper/cli/oathkeeper-credentials-generate","oathkeeper credentials generate | Ory","oathkeeper credentials generate > oathkeeper credentials generate​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Generate a key for the specified algorithm...","2025-01-29T11:00:55.234Z"
+"/docs/oathkeeper/cli/oathkeeper","oathkeeper | Ory","oathkeeper > oathkeeper​ > Options​ > SEE ALSO​
+A cloud native Access and Identity Proxy...","2025-01-29T11:00:55.430Z"
+"/docs/oathkeeper/cli/oathkeeper-credentials","oathkeeper credentials | Ory","oathkeeper credentials > oathkeeper credentials​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Generate RSA, ECDSA, and other keys and output them as JSON Web Keys...","2025-01-29T11:00:55.631Z"
+"/docs/oathkeeper/cli/oathkeeper-health-alive","oathkeeper health alive | Ory","oathkeeper health alive > oathkeeper health alive​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Checks if an ORY Oathkeeper deployment is alive...","2025-01-29T11:00:55.831Z"
+"/docs/oathkeeper/cli/oathkeeper-health-ready","oathkeeper health ready | Ory","oathkeeper health ready > oathkeeper health ready​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Checks if an ORY Oathkeeper deployment is ready...","2025-01-29T11:00:56.070Z"
+"/docs/oathkeeper/cli/oathkeeper-health","oathkeeper health | Ory","oathkeeper health > oathkeeper health​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Commands for checking the status of an ORY Oathkeeper deployment...","2025-01-29T11:00:56.390Z"
+"/docs/oathkeeper/cli/oathkeeper-rules-get","oathkeeper rules get | Ory","oathkeeper rules get > oathkeeper rules get​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Get access rule...","2025-01-29T11:00:56.595Z"
+"/docs/oathkeeper/cli/oathkeeper-rules-list","oathkeeper rules list | Ory","oathkeeper rules list > oathkeeper rules list​ > Synopsis​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+List access rules...","2025-01-29T11:00:56.806Z"
+"/docs/oathkeeper/cli/oathkeeper-rules","oathkeeper rules | Ory","oathkeeper rules > oathkeeper rules​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Commands for managing rules...","2025-01-29T11:00:57.006Z"
+"/docs/oathkeeper/cli/oathkeeper-serve","oathkeeper serve | Ory","oathkeeper serve > oathkeeper serve​ > Synopsis​ > Configuration​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Starts the HTTP/2 REST API and HTTP/2 Reverse Proxy...","2025-01-29T11:00:57.215Z"
+"/docs/oathkeeper/cli/oathkeeper-version","oathkeeper version | Ory","oathkeeper version > oathkeeper version​ > Options​ > Options inherited from parent commands​ > SEE ALSO​
+Display this binary's version, build time and git hash of this build...","2025-01-29T11:00:57.426Z"
